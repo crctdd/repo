@@ -884,6 +884,61 @@ Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 Name: K2gecamen (简体中文版)
 
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm
+Maintainer: MrGcGamer
+Installed-Size: 456
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm.deb
+Size: 81300
+MD5sum: 267f0d51d3dec17b9813a1cc727900d1
+SHA1: b22525f04e3b00b83cbbb4356d9fd2bc9302d6f2
+SHA256: 86889cb4c3222ac7be026eba3e08d8521bb932f8fc1d589ef6c5dbdd6d7aeb17
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Installed-Size: 380
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 74462
+MD5sum: 36cb705a5347ac0bdb4c17b4f18a64ca
+SHA1: 5a2b494321df603fff2a5d842d6021228ef07940
+SHA256: 26f227abd10a62421414eccd99322363bee59f9df7a89bd2f5ee29e1116a8811
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm64
+Maintainer: MrGcGamer
+Installed-Size: 380
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64.deb
+Size: 54510
+MD5sum: 58a32a3d0689abb8e4622dedb3f38ccb
+SHA1: a327a6e11310c7128b82d48b2b195b0f24445b68
+SHA256: a1fdb8d5e5062f26113c90c6514ab16585507df8af0c3db00b55e4f51fafaa16
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
 Package: com.nathan.internalstoragesettings
 Version: 1.0.1
 Architecture: iphoneos-arm64e
