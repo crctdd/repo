@@ -156,6 +156,119 @@ Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开�
 Author: Charlie Leung
 Name: TrollOpen
 
+Package: com.curtin.pkc
+Version: 0.9-5
+Architecture: iphoneos-arm
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootful_0.9-5_iphoneos-arm.deb
+Size: 1270108
+MD5sum: 76a0bf8c83b077673adb912b0d4fe13d
+SHA1: 7298f97855dd752aba32493b6b3581bb91d7a0e3
+SHA256: 22955d336faff68bb9a6ed6aee062defc9a35ad1742b231d0c0030e41ba3a5e9
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.9-6
+Architecture: iphoneos-arm
+Maintainer: curtinlv@126.com <curtinlv@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootful_0.9-6_iphoneos-arm.deb
+Size: 1366048
+MD5sum: cb4a260e40c658fbdbe2fe7c8250b486
+SHA1: 8a910dca7cb5493cfcf685d4f30d1386a37a14a7
+SHA256: 76bc5b0ff1b03c978a8842d38f0c76df22f585dae8625b7d004f944580c8af12
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin <curtinlv@gmail.com>
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
+
+Package: com.curtin.pkc.rootless
+Version: 0.9-5
+Architecture: iphoneos-arm64e
+Maintainer: curtinlv@126.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.roothide_0.9-5_iphoneos-arm64e.deb
+Size: 3484416
+MD5sum: ec0ec436cfbebf5486aecfd5e06817ab
+SHA1: f332f277c2ec9216f40f51bbbc2d50384a6af4a8
+SHA256: 545df426caf0f1f30e2166d2e5f63394f28dab5023a8f90b6da5c44a214bf0f1
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.9-5
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.9-5_iphoneos-arm64.deb
+Size: 1271080
+MD5sum: e05dc523bec90a8574b1e00b392df2a8
+SHA1: e5bf29f66f2990bf3e8d54f043bb4e7f53632431
+SHA256: 52efcd6bcad56eb058a482fced850ee07635dcfc8f8e4ec07ef5fd560cb023e9
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.9-6
+Architecture: iphoneos-arm64e
+Maintainer: curtinlv@126.com <curtinlv@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.roothide_0.9-6_iphoneos-arm64e.deb
+Size: 3753542
+MD5sum: 4af758bee6744e849461ae4de03e402a
+SHA1: 574ce635ee1bb869e36f5ddde1eab3ab2830325e
+SHA256: 6514e3934b2b19e9b0895093785311efff7ea0d59f24ae149690275537bb44da
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin <curtinlv@gmail.com>
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
+
+Package: com.curtin.pkc.rootless
+Version: 0.9-6
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com <curtinlv@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.9-6_iphoneos-arm64.deb
+Size: 1366744
+MD5sum: a04c062871890dd95149a0d57df2614a
+SHA1: 570b7aea795cf5e0d37b2869c2cec09b1ecdb9f0
+SHA256: 2bb626670c1eec6d6dbcf0f6834d3f5caaadf77aa6a6e2cde13ecfdcf838581e
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin <curtinlv@gmail.com>
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
+
 Package: com.huami.ChoicyConfigPin
 Version: 1.0-2
 Architecture: iphoneos-arm64e
