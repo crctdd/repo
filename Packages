@@ -1191,6 +1191,43 @@ Description: JSC security hardening for WebContent process. Configures JavaScrip
 Author: roothide
 Name: lockdown
 
+Package: com.sini.tweaksettings
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.sini.tweaksettings_1.0.8_iphoneos-arm64e.deb
+Size: 450306
+MD5sum: d1ceb59c19a688e7b934df4b03242d7b
+SHA1: c8094030f838d47b48be589730d6515dd11f87d1
+SHA256: 4454dbb6aa336f28c04ae702aa4a455a2167c6e80a9f743a67538a9cda4142de
+Section: 越狱应用
+Priority: optional
+Description: 安装后在桌面，打开进入插件列表
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/tweaksett.png
+Name: TweakSettings(rootless)
+
+Package: com.sini.tweaksettings
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.sini.tweaksettings_1.0.8_iphoneos-arm64.deb
+Size: 386576
+MD5sum: 78bdcd4426490c7d844c8c1bd1f1ea4e
+SHA1: 5df334cfc798bbaf13626f96eb9197cff8b71409
+SHA256: 9a76d4cb00d4d79f28a1c257ac63876cda7cb42a868a1dd2481123723e292a17
+Section: 越狱应用
+Priority: optional
+Description: 安装后在桌面，打开进入插件列表
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/tweaksett.png
+Name: TweakSettings(rootless)
+
 Package: com.sini921.disabledwarning
 Version: 0.0.1-2
 Architecture: iphoneos-arm64e
