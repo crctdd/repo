@@ -122,6 +122,55 @@ Author: zqbb
 Name: Hello 3Q
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
 
+Package: com.25mao.MiYou
+Version: 3.9-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou_3.9-5_iphoneos-arm.deb
+Size: 6819616
+MD5sum: 9df33c5fad4a457377ac7c368c908269
+SHA1: 235dd332e2b9ee66d0a3fd08fafe3945166c87d6
+SHA256: 17ee882775a6af80dffbef53512285654853e36994f596be835dc876116fc370
+Section: Tweaks
+Priority: optional
+Description: 微信助手
+Author: Mao
+Name: 微信助手
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-5
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64e.deb
+Size: 13762640
+MD5sum: 31463810bc79799728400d80cc9aee2c
+SHA1: 6f851b0f45009def3980319fabee751717d6d012
+SHA256: 4374d669a7ecca32ad496e20d6abf1a172bb0a12c6ef9e93e6529461d83eed53
+Section: Tweaks
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64.deb
+Size: 6819730
+MD5sum: ae8faa049c32774a1995ec0c3ccf51c1
+SHA1: 498ff76bde3a1ec28d4f7eeaae0f15c4b08a8bc2
+SHA256: 0f4d4e55b6e0875e34ed2c9d0aa2f77e60c65cd781de9508d8c5401198fc4498
+Section: Tweaks
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+
 Package: com.anthopak.pancake-rootless
 Version: 2.3
 Architecture: iphoneos-arm64e
