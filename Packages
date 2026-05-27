@@ -122,6 +122,55 @@ Author: zqbb
 Name: Hello 3Q
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
 
+Package: com.25mao.BubbleBox
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.bubblebox_1.0-5_iphoneos-arm64.deb
+Size: 2327730
+MD5sum: 7aca2075e063bebb4889644ee5a22129
+SHA1: 5e00c1a0e8e3574cd6592571c48f989a26d5e7a2
+SHA256: f152a471b39302b6b2fb4323cdfcebbda2d51734f5823255f6d2dd7ddc22702e
+Section: Tweaks
+Priority: optional
+Description: 微信气泡插件
+Author: Mao
+Name: 气泡盒子
+
+Package: com.25mao.BubbleBox
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.bubblebox_1.0-5_iphoneos-arm.deb
+Size: 2327696
+MD5sum: 2e51874fe42bb23367003af9b9e16c92
+SHA1: 76ba428b500e40c95aade712a31a4bc48529ad2b
+SHA256: 44cd2cb3e8cc622d023d3a56944d48365828aff2e5b642fb28869428cb840c7a
+Section: Tweaks
+Priority: optional
+Description: 微信气泡插件
+Author: Mao
+Name: 气泡盒子
+
+Package: com.25mao.BubbleBox
+Version: 1.0-5
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.bubblebox_1.0-5_iphoneos-arm64e.deb
+Size: 4731524
+MD5sum: 918b555d99b15cef026323835323d12f
+SHA1: abd6e3b70212664198ca9857c0c391474f96c05b
+SHA256: 69f9b1dc7ab541cfa884c1cc551dd71142fb8b16828c86771db68792b3a5f17c
+Section: Tweaks
+Priority: optional
+Description: 微信气泡插件
+Author: Mao
+Name: 气泡盒子
+
 Package: com.25mao.MiYou
 Version: 3.9-4
 Architecture: iphoneos-arm
