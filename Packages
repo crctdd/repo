@@ -1339,6 +1339,55 @@ Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollp
 Name: TrollPad
 Sileodepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
+Package: com.lclrc.hammerit
+Version: 1.7.0-END
+Architecture: iphoneos-arm
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3840
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.0-END_iphoneos-arm.deb
+Size: 990096
+MD5sum: 9cce20f730b5c8f01ff88bd86387b5b5
+SHA1: c121618a07232f9bee27ddad69456c519c63382c
+SHA256: 5e43e5cbc65a4d3107c30c86e35622abea23227b3105bef6096747eccc6b4ddf
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Name: Hammer It
+
+Package: com.lclrc.hammerit
+Version: 1.7.0-END
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.0-END_iphoneos-arm64e.deb
+Size: 987264
+MD5sum: 8ade7ff08b63609ac2954be0807de23b
+SHA1: 67ee5ced6dd5140ae1a0725e789d66675d4a3c11
+SHA256: a8cb4dafe69d6a37e6cbaead5e5c56eefaa4e6f5b87708b9825acee57523f0a8
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Name: Hammer It
+
+Package: com.lclrc.hammerit
+Version: 1.7.0-END
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.0-END_iphoneos-arm64.deb
+Size: 981128
+MD5sum: 36634609823d51462095303ea1045537
+SHA1: 50ab855539ec88b5bb28a1282a375f9c2ce6e34a
+SHA256: a90e873a6e70469ace5e5d08777cea282cd4227216062183ec69abeadd7bd194
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Name: Hammer It
+
 Package: com.m4fn3.k2gecamen
 Version: 1.0.5
 Architecture: iphoneos-arm64e
