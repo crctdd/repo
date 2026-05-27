@@ -1232,6 +1232,58 @@ Description: 显示屏幕触摸轨迹，支持iOS14-17所有越狱
 Author: iosdump
 Name: TrollCM
 
+Package: com.jontelang.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 536
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper
+Filename: ./debs/com.jontelang.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
+Size: 19858
+MD5sum: 6e2e141bc7d799b4b53b61f2a83c101f
+SHA1: 139dd1f7af7701cc4c65e21fc99e52d5cfc3ddae
+SHA256: 7858b27c0bbdf9c4a7950a6b378fdfa1eaa26d999e9dbee3944d707e24d4f947
+Section: Tweaks
+Description: BigShot for iOS 15/16 (and Snapper 3)
+Author: Jonathan Winger-lang
+Name: BigShot for Snapper 3 and CCSupport
+
+Package: com.jontelang.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Installed-Size: 536
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper
+Filename: ./debs/com.jontelang.bigshotsnapper3plugin_1.1_iphoneos-arm.deb
+Size: 19884
+MD5sum: 518fa551dc652e9d18fa1682bd8a133d
+SHA1: eaff408b83018855ae476303a9b5c866903c8f58
+SHA256: bc90e6c524909415139f5acc99997b2d0a1f6fb62c15d8894cfa16682aca516f
+Section: Tweaks
+Description: BigShot for iOS 15/16 (and Snapper 3)
+Author: Jonathan Winger-lang
+Name: BigShot for Snapper 3 and CCSupport
+
+Package: com.jontelang.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Jonathan Winger-lang
+Installed-Size: 536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper
+Filename: ./debs/com.jontelang.bigshotsnapper3plugin_1.1_iphoneos-arm64e.deb
+Size: 25512
+MD5sum: 151c08aa68c9fe62d994460f1902976d
+SHA1: fe0399587b54ea4ad5d8316153e6b1d449e7bab9
+SHA256: b0df91e32e9281312215a9e31ba6b5f31e504fa078c35b62ccf2df4670c5c119
+Section: Tweaks
+Description: BigShot for iOS 15/16 (and Snapper 3)
+Author: Jonathan Winger-lang
+Name: BigShot for Snapper 3 and CCSupport
+
 Package: com.kdt.trollpad
 Version: 1.3
 Architecture: iphoneos-arm64
