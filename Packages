@@ -1694,6 +1694,23 @@ Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.debd/js.jso
 
 Package: com.nathan.dynamicnotland
 Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.2.5_iphoneos-arm64e.deb
+Size: 16378
+MD5sum: bfe72a645a9eecab87124f06d2fcc60a
+SHA1: 96265bffb969fe6558fd3f1b35264d7831c1d3ca
+SHA256: 541bc1ac634c32899a926a3b48712effbd91cedb100c059ab003c2ccbbeabb42
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.2.5
 Architecture: iphoneos-arm
 Maintainer: Nathan
 Installed-Size: 348
