@@ -1654,6 +1654,39 @@ Tag: role::developer
 Author: MrGcGamer
 Name: LibGcUniversal
 
+Package: com.nathan.dynamichiderecordland
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamichiderecordland_1.0_iphoneos-arm64e.deb
+Size: 4284
+MD5sum: b35ee2b0961309be47c39c94c4b35cfd
+SHA1: 6c702290bffa88608c5b5a187714bb032e9fda7b
+SHA256: 2e3a49ccd6c08514e2b71b0372722ea57c27e0587d29f1289556f283a27a8283
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicHideRecordLand
+
+Package: com.nathan.dynamichiderecordland
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamichiderecordland_1.0_iphoneos-arm64.deb
+Size: 3004
+MD5sum: 476ee373ab4b93fa51d1a1a7a889241a
+SHA1: 51416d8af2503b6344842336fe5b1759664a1dd7
+SHA256: 5f7d7b030a1347ab34d99770b8edb2ddf52e37deda41da3da463b2d9a3cf6298
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicHideRecordLand
+
 Package: com.nathan.dynamicnotland
 Version: 1.2.5
 Architecture: iphoneos-arm64e
