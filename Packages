@@ -780,6 +780,51 @@ Description: Pin apps with custom tweak configuration to the top in Choicy
 Author: huami
 Name: ChoicyConfigPin
 
+Package: com.huami.WCPulse
+Version: 1.6-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcpulse_1.6-1_iphoneos-arm64.deb
+Size: 13276856
+MD5sum: 63ac56b5be08484a7f68d5d86ab14f1b
+SHA1: a5b0834c44309f69e1d171acb70921b97e554b99
+SHA256: dffb242fa57195dfaef188053553a5b58861f3e4eb2a8e680f7a3b38fa54f9ec
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: com.huami.WCPulse
+Version: 1.6-1
+Architecture: iphoneos-arm
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcpulse_1.6-1_iphoneos-arm.deb
+Size: 13276738
+MD5sum: 332b1bd229cc95198578eb4aaf3af5fe
+SHA1: 38c3ed538ecac7195b18f8cd73295e4fd30cf3c4
+SHA256: 2d06b111063d41171e00e8c345df483bed29ab41ee1f364a3608a13fec23d6fb
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: com.huami.WCPulse
+Version: 1.6-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcpulse_1.6-1_iphoneos-arm64e.deb
+Size: 13276746
+MD5sum: 208545b56fff975b4590102365e6d35f
+SHA1: 74f6a9c9e4d0b63047963fdf1a0b90da6f468edb
+SHA256: 9b0263492a4952a9d42b267cd6e74dd645af9f6bd4b0e4f0441de39a76126b91
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
 Package: com.icraze.keepmyjb
 Version: 1.1
 Architecture: iphoneos-arm64
