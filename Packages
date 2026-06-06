@@ -2415,6 +2415,24 @@ Name: K2gecamen (简体中文版)
 
 Package: com.m4fn3.k2gecamen
 Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: mafu
+Installed-Size: 6204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.0.5_iphoneos-arm64e.deb
+Size: 2115828
+MD5sum: db7ccb9223991cdbb1dd664d5a2bd373
+SHA1: 8977bd31bac390b8850f75dfcdc7222bb38ad73b
+SHA256: 39351e9fd4cbd4ff3ad9ae00a6b169e7d846f4474f272298a01a3573bc5092d4
+Section: Tweaks
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+Name: K2gecamen (简体中文版)
+
+Package: com.m4fn3.k2gecamen
+Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: mafu
 Installed-Size: 6204
