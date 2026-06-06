@@ -301,6 +301,54 @@ Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手-Rootless
 
+Package: com.82flex.unseen
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.1_iphoneos-arm64.deb
+Size: 42650
+MD5sum: 992884f16343c89e62c6b0c8c1070cff
+SHA1: 9ee7623485ffe2e0798bbdfd714119c65ff34230
+SHA256: a838abe6f6f852fcf04d704dc5c50ae1ba50d0114c0b1a1d08097e90cdedbc93
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.1_iphoneos-arm.deb
+Size: 42580
+MD5sum: 32eb4403ed75b50ceb5b87ba8a2b83b2
+SHA1: 0119ba3d304002bc244db611a62837501a592048
+SHA256: a977a13d671c4dd03a772a7efe280d51c40f397c6ca9a2583673e9a0af841030
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.1_iphoneos-arm64e.deb
+Size: 42592
+MD5sum: 3525c30ecddce48242ab00bddc49ed33
+SHA1: 90747d792b004f2c878f9b0bd6522ce03dcfcf4d
+SHA256: 87be5caea4adc3f789eac8e19c3fd1f2c5d9e361786c2f0d0321a08c3794d23e
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.2
 Architecture: iphoneos-arm64
