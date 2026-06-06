@@ -891,6 +891,39 @@ Dev: lucaluca86
 Name: 通知不亮屏幕 (白名单)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.helloms.plist
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: RrrankkK
+Installed-Size: 164
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.helloms.plist_0.0.1_iphoneos-arm64e.deb
+Size: 6210
+MD5sum: 650e26a7e71a127123d4f34bb8ca34ff
+SHA1: 45a4fcdfd1ecf62bd37354599af23dc826774afb
+SHA256: 2c41f4e161c94da1fcef736bd0b404b8cd09b0006c547824cee7856c3053c67b
+Section: Tweaks
+Description: 给初试者品尝的配置。已付费购买Hello Memory Status请不要安装、请不要安装、请不要安装，否则会丢失激活配置。如体验后想付费购买，请卸载本配置插件和本体插件(两个都要卸载)→→注销，再重新下载去付费购买
+Author: RrrankkK
+Name: HelloMSPlist
+
+Package: com.helloms.plist
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: RrrankkK
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: ./debs/com.helloms.plist_0.0.1_iphoneos-arm64.deb
+Size: 3840
+MD5sum: 48a2fb5ed8fd4e83ecf8bc5744e6e25e
+SHA1: d2615f060bf9e66f3d07d94f7919815e2c06d63f
+SHA256: 64314936ddaa40e3b8e0804498566eb4e02fdece22ec8729023edae74a521aea
+Section: Tweaks
+Description: 给初试者品尝的配置。已付费购买Hello Memory Status请不要安装、请不要安装、请不要安装，否则会丢失激活配置。如体验后想付费购买，请卸载本配置插件和本体插件(两个都要卸载)→→注销，再重新下载去付费购买
+Author: RrrankkK
+Name: HelloMSPlist
+
 Package: com.huami.ChoicyConfigPin
 Version: 1.0-2
 Architecture: iphoneos-arm64
