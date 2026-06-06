@@ -891,6 +891,46 @@ Dev: lucaluca86
 Name: 通知不亮屏幕 (白名单)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.dvntm.ytlites
+Version: 5.2b4
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16696
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite, com.dao.ytlite, byg.iosios.net.ytlite
+Filename: ./debs/com.dvntm.ytlites_5.2b4_iphoneos-arm64.deb
+Size: 6416452
+MD5sum: d7f3a3c87c708904983c3cf46f83862f
+SHA1: faee6752bedbc12978404da5e594cd39085c04c0
+SHA256: e8d02767d2c53f479bad5e08b3e38582bd4790a6a5e621241ef150c344da73a8
+Section: 应用破解
+Description: YouTube Plus 增强插件
+ * Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
+Name: YTLite YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
+Package: com.dvntm.ytlites
+Version: 5.2b4
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16696
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite, com.dao.ytlite, byg.iosios.net.ytlite
+Filename: ./debs/com.dvntm.ytlites_5.2b4_iphoneos-arm64e.deb
+Size: 6414516
+MD5sum: ffcd4e84cc88059cf09c586a9d76212b
+SHA1: f6f5baed524aba885b87179e9b4a14aebc9feade
+SHA256: 21306548a97c109e81a0cd863db3fe64216eecdc38dfde6cbaa129516264d838
+Section: 应用破解
+Description: YouTube Plus 增强插件
+ * Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
+Name: YTLite YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
 Package: com.helloms.plist
 Version: 0.0.1
 Architecture: iphoneos-arm64e
