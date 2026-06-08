@@ -3439,6 +3439,57 @@ Description: No Apple MobileRepair
 Author: xybp888
 Name: No Apple MobileRepair
 
+Package: dylv.liquidass
+Version: 0.0.9a
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 3756
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/dylv.liquidass_0.0.9a_iphoneos-arm64.deb
+Size: 1368404
+MD5sum: 32084de76771871ba53e5ddbf9064d9b
+SHA1: 397e767befd4f356ef5fba836cc0df45e03fa42a
+SHA256: 76debe662ea9309d82dfb1171e138586ace8de9ef18b6e9a9e091dc041ecb657
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
+
+Package: dylv.liquidass
+Version: 0.0.9a
+Architecture: iphoneos-arm64e
+Maintainer: dylv
+Installed-Size: 3756
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/dylv.liquidass_0.0.9a_iphoneos-arm64e.deb
+Size: 1367910
+MD5sum: ce7448239ac809a85f019b4932d9db16
+SHA1: 2c1315376e0d86e26d026fa44b22865c10a14315
+SHA256: cf7a1dfe1d34075fccc7278716e94ceeb18ea781b8088ada50edb70f3cdfa91d
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
+
+Package: dylv.liquidass
+Version: 0.0.9a
+Architecture: iphoneos-arm
+Maintainer: dylv
+Installed-Size: 3756
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/dylv.liquidass_0.0.9a_iphoneos-arm.deb
+Size: 1367534
+MD5sum: 380aedc7d46d65344c874dd84d309699
+SHA1: 02b6e38fde3071718db13164c87cd4811c26c874
+SHA256: efd435009ad330b190400f909ab73a07d9007b10ef66a90c49b034f5f00d0081
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
+
 Package: roothide.patches.filza
 Version: 0.5-4
 Architecture: iphoneos-arm64e
