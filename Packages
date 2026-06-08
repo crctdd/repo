@@ -78,6 +78,22 @@ Description: CocoaTop汉化插件，适配官版和真皮4个修改版
 Author: 来了老弟
 Name: CocoaTop (汉化插件)
 
+Package: cn.llld.dndmyrecording
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.dndmyrecording_1.2.1_iphoneos-arm64e.deb
+Size: 3748
+MD5sum: 690f67c9885e332e92d7317358d3667c
+SHA1: b69e9878e4dafcf146ed6212c533ae493d93d2c2
+SHA256: 215623c0b5345528545f4770013e0a437d28450aada3b30c08b838b6e0492933
+Section: roothide修复插件
+Description: The phone automatically turns on Do Not Disturb mode when recording the screen.手机在录屏时，自动开启勿扰模式_________仅测试用,有问题卸载---roothide
+Author: gilshahar7, 0xkuj
+Name: DNDMyRecording录屏勿扰模式-roothide
+
 Package: cn.zqbb.ccatop
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -2485,6 +2501,39 @@ Section: Tweaks
 Description: Control your text or translate as you wish.
 Author: lclrc(SquidForce)
 Name: Hammer It
+
+Package: com.lclrc.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64.deb
+Size: 4484
+MD5sum: 961117816b55319fb135641c10755bc4
+SHA1: 485aacebcb9e9cf0cf2551e54c8591bef76d028d
+SHA256: 3cbd9f39fc8e34f449e7ccc0365f445dd9b9935368e8ba85b87a131652ec0c81
+Section: Tweaks
+Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamine，感谢原作者提供的思路。
+Author: Muirey03 & lclrc
+Name: 锁屏录屏RecordAnywhere
+
+Package: com.lclrc.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64e.deb
+Size: 6224
+MD5sum: 806ae8fe6677321896b789cd54796d2c
+SHA1: eb81ab19aa30082a258d06760e85e2a4549540e0
+SHA256: 6fb1da38c6ccd344ccf2b021806f914c7ad2d7ca3de8c27550488238690f7f32
+Section: Tweaks
+Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamine，感谢原作者提供的思路。
+Author: Muirey03 & lclrc
+Name: 锁屏录屏RecordAnywhere
 
 Package: com.m4fn3.k2gecamen
 Version: 1.0.5
