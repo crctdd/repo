@@ -1098,6 +1098,51 @@ Description: WCPulse
 Author: huami
 Name: WCPulse
 
+Package: com.huami.WCPulse
+Version: 1.6-3
+Architecture: iphoneos-arm
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcpulse_1.6-3_iphoneos-arm.deb
+Size: 5819762
+MD5sum: 96d7918838c39ebf3aa73716b680a112
+SHA1: cd2fdccdc44fad212f36f11ee44d64ea1e6e9008
+SHA256: 4bc2c9785e68f58274f1f9b4fdc9fe0bb7062ae08aa17b7ae4f1880c4cbfeb74
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: com.huami.WCPulse
+Version: 1.6-3
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcpulse_1.6-3_iphoneos-arm64e.deb
+Size: 5819764
+MD5sum: 6f2f1323c1abe49cd86fc1f9024cdd58
+SHA1: a031bb212fff8c6798253b80b974ab0a123183df
+SHA256: b1d2dc52707b0ef4ddb1f9c353c776ff35a822e036209ac43e9ec43dbc444f13
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: com.huami.WCPulse
+Version: 1.6-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcpulse_1.6-3_iphoneos-arm64.deb
+Size: 5819862
+MD5sum: 299c6addebb49b40390414f95de94b4d
+SHA1: 86e613109ba1cac261b675480b665f6944b2cb13
+SHA256: 61ecb195b76b6a50844edac5f02cae6195291c0543176604d9faa30f29e267ef
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
 Package: com.huami.dyyy
 Version: 2.2-9
 Architecture: iphoneos-arm
