@@ -987,6 +987,40 @@ Dev: lucaluca86
 Name: 通知不亮屏幕 (白名单)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.doimty.promotion
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.doimty.promotion_1.0.6_iphoneos-arm64e.deb
+Size: 40358
+MD5sum: a3eb3bec3986a174e754de07ec236a4e
+SHA1: 4f9223683784462dca5b4ab277f6bb606eecea5c
+SHA256: 1c7deffb5e63f79ee6b25f027d2581c451d4c4e4bdac9ead751d6fac54217db1
+Section: Tweaks
+Description: 强制全局 120Hz ProMotion 刷新率，解除系统 80Hz 限制。仅支持 iPhone 13 Pro 及以上。
+Tag: supports::roothide
+Author: doimty
+Name: ProMotion 120Hz
+
+Package: com.doimty.promotion
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.doimty.promotion_1.0.6_iphoneos-arm64.deb
+Size: 42436
+MD5sum: 180c317e5230111583e0f38e3a09ef46
+SHA1: fb1aebf799bfac54f09c28b8b33e2a3f2c0b26b0
+SHA256: c1caca0301f3c716a28ce32fabea13ad057f91182c6e2343eac6c657aed334e7
+Section: Tweaks
+Description: 强制全局 120Hz ProMotion 刷新率，解除系统 80Hz 限制。仅支持 iPhone 13 Pro 及以上。
+Tag: supports::roothide
+Author: doimty
+Name: ProMotion 120Hz
+
 Package: com.helloms.plist
 Version: 0.0.1
 Architecture: iphoneos-arm64e
