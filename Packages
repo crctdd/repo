@@ -4124,6 +4124,59 @@ Author: dylv
 Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
 Name: Liquid (Gl)ass (简体中文版)
 
+Package: im.mjh.fakeperm
+Version: 8.6.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 1520
+Depends: firmware (>= 15.0),  preferenceloader
+Filename: ./debs/im.mjh.fakeperm_8.6.0_iphoneos-arm64.deb
+Size: 266022
+MD5sum: 762257b79f68a6deb5f021f1615a648b
+SHA1: f1aeb44ce0de22b823e3889d9f1085d40c0015a5
+SHA256: 86571c4c303c811dd336e8316a738e92c916a88ada12ec423e97f7bc53ace08b
+Section: Tweaks
+Description: 针对任意 App 单独配置虚拟权限，防止隐私被过度索要。
+  .
+  支持: 通知伪装、推送伪装、定位伪装(地图选点/地址搜索/海拔/历史记录)、相册伪装、通讯录伪装、日历伪装、相机伪装(强制相册/虚拟拍照)、麦克风伪装、蓝牙伪装、剪贴板伪装、传感器防摇一摇、WiFi模拟(SSID/BSSID/历史)、机型伪装、iOS版本伪装(内置数据库)、地区伪装(内置选择器)、语言伪装(内置选择器)、UUID标识符伪装(IDFV/IDFA)、App版本伪装、屏蔽代理检测、屏蔽截图/录屏检测、配置导入导出、App暂停/恢复。
+  .
+  已测试设备:
+ iPhone 14 Pro - iOS 16.3
+ iPhone 12 - iOS 16.1.1
+ iPhone SE 1st - iOS 15.8.5
+ iPad 9 - iOS 15.4.1
+  .
+  其他设备请自行测试
+Author: Junhong
+Name: 虚拟权限 · Fake Permission
+
+Package: im.mjh.fakeperm.roothide
+Version: 8.6.0
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 1520
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),  preferenceloader
+Filename: ./debs/im.mjh.fakeperm.roothide_8.6.0_iphoneos-arm64e.deb
+Size: 348486
+MD5sum: f7b587b5786bf830deb0dc39e30a24d0
+SHA1: 99a2802bdc495d5306c76f1691b4e7b0aa5b9c91
+SHA256: e1524b17aa94de4cc2799436b5a89daa0e639f8a0a1095eb7eb07077b001e44c
+Section: Roothide
+Description: 针对任意 App 单独配置虚拟权限，防止隐私被过度索要。
+  .
+  支持: 通知伪装、推送伪装、定位伪装(地图选点/地址搜索/海拔/历史记录)、相册伪装、通讯录伪装、日历伪装、相机伪装(强制相册/虚拟拍照)、麦克风伪装、蓝牙伪装、剪贴板伪装、传感器防摇一摇、WiFi模拟(SSID/BSSID/历史)、机型伪装、iOS版本伪装(内置数据库)、地区伪装(内置选择器)、语言伪装(内置选择器)、UUID标识符伪装(IDFV/IDFA)、App版本伪装、屏蔽代理检测、屏蔽截图/录屏检测、配置导入导出、App暂停/恢复。
+  .
+  已测试设备:
+ iPhone 14 Pro - iOS 16.3
+ iPhone 12 - iOS 16.1.1
+ iPhone SE 1st - iOS 15.8.5
+ iPad 9 - iOS 15.4.1
+  .
+  其他设备请自行测试
+Author: Junhong
+Name: 虚拟权限 · Fake Permission (Roothide)
+
 Package: roothide.patches.filza
 Version: 0.5-4
 Architecture: iphoneos-arm64e
