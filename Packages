@@ -4125,6 +4125,58 @@ Description: No Apple MobileRepair
 Author: xybp888
 Name: No Apple MobileRepair
 
+Package: com.yan.ring
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: yan
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.yan.ring_1.0.2_iphoneos-arm.deb
+Size: 41012
+MD5sum: 181a2f44eafa76cc1a229097b6b957f1
+SHA1: 0e5990fed88746611866f9a54f6e96b75a9b485b
+SHA256: d2838431843085c294c93450bf7e387b47b477ae289e976f169aaf6a00b4ce77
+Section: Tweaks
+Description: Effortlessly manage your ringer volume!
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
+Name: Ring (无设置项)
+
+Package: com.yan.ring
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.yan.ring_1.0.2_iphoneos-arm64.deb
+Size: 41028
+MD5sum: 630ac45b72daac5659f00affdb5b506a
+SHA1: 156938e98aecc178b387bf91450e5cafeae64c89
+SHA256: c329ea80e81374c52e319fa2981065eb655a16887375894be8e226cc50d45367
+Section: Tweaks
+Description: Effortlessly manage your ringer volume!
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
+Name: Ring (无设置项)
+
+Package: com.yan.ring
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: yan
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.yan.ring_1.0.2_iphoneos-arm64e.deb
+Size: 42668
+MD5sum: 431047d296516c76cc9177c854b59694
+SHA1: 56ea01377d9e586221f6bdcaddcf0a1938fb0d9d
+SHA256: 7094ad5cfdabe35635ac7f2ed3903d8726c56faca8b2a2e9ad366c1e8affa1fb
+Section: Tweaks
+Description: Effortlessly manage your ringer volume!
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
+Name: Ring (无设置项)
+
 Package: dylv.liquidass
 Version: 0.0.9a
 Architecture: iphoneos-arm64
