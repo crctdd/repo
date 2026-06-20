@@ -3452,6 +3452,58 @@ Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 Name: K2gecamen (简体中文版)
 
+Package: com.m4fn3.k2gecamen
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: mafu
+Installed-Size: 8796
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.1.0_iphoneos-arm.deb
+Size: 2993538
+MD5sum: 593642b5d471b0fab9cbd962dd46e91f
+SHA1: e0b1fd37874cb163a4687da4004d40bad729286a
+SHA256: 9b04e6c8912af9d35d5c7df14b92e6f23cc0c7a12b655c7eb4d3c2f44d91c7fc
+Section: Tweaks
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+Name: K2gecamen
+
+Package: com.m4fn3.k2gecamen
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: mafu
+Installed-Size: 8928
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.1.0_iphoneos-arm64.deb
+Size: 3031852
+MD5sum: fa797612bf7238fc4f3be33077ff8315
+SHA1: 1207eeb7e1fa025b20d76368acae5327e147ad7c
+SHA256: 14707f6d663bfadbaf83cf7c22f52eff077f70e7b336dc58e69b423535c6bb44
+Section: Tweaks
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+Name: K2gecamen
+
+Package: com.m4fn3.k2gecamen
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: mafu
+Installed-Size: 8928
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.1.0_iphoneos-arm64e.deb
+Size: 8460210
+MD5sum: 5b31e8a0d14c66c42a9619458c6f2201
+SHA1: 8995d1d43354d7f3d30396f0b70d64de1bf66bc6
+SHA256: b516fdee42159a1ba21fb5c750bf90733aa196548f060f1b32bdddf8e281b872
+Section: Tweaks
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+Name: K2gecamen
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm
