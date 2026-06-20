@@ -3400,6 +3400,39 @@ Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamin
 Author: Muirey03 & lclrc
 Name: 锁屏录屏RecordAnywhere
 
+Package: com.lenglengyu.ghallownetwork-rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.ghallownetwork-rootless_0.0.1_iphoneos-arm64.deb
+Size: 8032
+MD5sum: 55bdfa2b5aac785e38bac310f1148a34
+SHA1: a2f8bcfcedd81b5874d3aee14fd87e38e5d2d8b2
+SHA256: 6ccb712a146196f1fb4025eaa0cad937a09a24e90ebbc79d997e6f8d78aa927f
+Section: Tweaks
+Description: 国行手机自动允许使用网络。
+Author: lenglengyu
+Name: Allow Network-Rootless
+
+Package: com.lenglengyu.ghallownetwork-rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.ghallownetwork-rootless_0.0.1_iphoneos-arm64e.deb
+Size: 10454
+MD5sum: ecff08888db448218b64d7997d34922a
+SHA1: fa922baf6e8a05326572bf0dd3410567d7d9b5d0
+SHA256: 5159cdbcf18eecb8e1221c3a7a75eee286eefedf38b3be78171bc8bea28d27ef
+Section: Tweaks
+Description: 国行手机自动允许使用网络。
+Author: lenglengyu
+Name: Allow Network-Rootless
+
 Package: com.m4fn3.k2gecamen
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -3558,6 +3591,51 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Author: MrGcGamer
 Name: LibGcUniversal
+
+Package: com.nan.debd
+Version: 0.4.2
+Architecture: iphoneos-arm64e
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq, defaults
+Filename: ./debs/com.nan.debd_0.4.2_iphoneos-arm64e.deb
+Size: 4764
+MD5sum: 8058cf876c153d1d1b8775e18b41c5f1
+SHA1: 04f96e514f3c34935a26dc784262220bbb1aa8c2
+SHA256: 1ff5350a748a52b3ea24a167b75056edfc943fabca42d540f241425ae3afc7ca
+Section: Terminal_Support
+Description: 轻量 deb 下载工具，不支持付费才能下的插件
+Author: zhaonan
+Name: debd
+
+Package: com.nan.debd
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq, defaults
+Filename: ./debs/com.nan.debd_0.4.2_iphoneos-arm64.deb
+Size: 4788
+MD5sum: 6794b6824bf170390848517805cd1218
+SHA1: 4a05a247d21f109b92951d62dc7af18160ba6c10
+SHA256: e91ffbdfb1fb61f8300f1e239db55e312bbd0ad640efaf9f50d380a984872a25
+Section: Terminal_Support
+Description: 轻量 deb 下载工具，不支持付费才能下的插件
+Author: zhaonan
+Name: debd
+
+Package: com.nan.debd
+Version: 0.4.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq, defaults
+Filename: ./debs/com.nan.debd_0.4.2_iphoneos-arm.deb
+Size: 4764
+MD5sum: 1a1b9c4345c2abbc4ffaef385f7b777d
+SHA1: 49ada45a47c90b9b4e0d168950aa7c83e4d52e3d
+SHA256: e68cdebedf0ac6e4ea51c6c53096f82b45b9c86dc1403becc8cb785d6b646c16
+Section: Terminal_Support
+Description: 轻量 deb 下载工具，不支持付费才能下的插件
+Author: zhaonan
+Name: debd
 
 Package: com.nathan.dynamichiderecordland
 Version: 1.0
@@ -4311,6 +4389,22 @@ Description: Effortlessly manage your ringer volume!
 Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 Name: Ring (无设置项)
+
+Package: daniel.batman
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: daniel
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/daniel.batman_0.0.2-1+debug_iphoneos-arm64e.deb
+Size: 4912
+MD5sum: 20f986a51d5d52c452c48dc23418651d
+SHA1: f538cbf652245e3b57e4d6b424542f15c8951208
+SHA256: d6e67a00d15bfe437b3ce067e3f582916535549c7d46721fc58b539931ca3135
+Section: Tweaks
+Description: Display much more battery information
+Author: daniel
+Name: Batman (roothide)
 
 Package: dylv.liquidass
 Version: 0.0.9a
