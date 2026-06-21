@@ -1414,6 +1414,63 @@ Description: WCPulse
 Author: huami
 Name: WCPulse
 
+Package: com.huami.dyyy
+Version: 2.2-9
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 2460
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-9_iphoneos-arm.deb
+Size: 524458
+MD5sum: 284d6ab2c5b247cbec654ada5a7d151a
+SHA1: 226b72d9e2bbf71865315db29fec104edca84563
+SHA256: 759c331f1ce2c3dfc8d633ab8becfe9dad6f54956ba5dc4ea7f710408a379327
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-9
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2460
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-9_iphoneos-arm64e.deb
+Size: 525222
+MD5sum: e2da45bdf28f5a5ae5c7d16025cb5c5e
+SHA1: f3277828eb06b08362ad6f511dec1b472c2b4de9
+SHA256: 7bbf818c50edaeccafcc746b703c31c4e01c2230144ec2ddd07cf88e63c0cd00
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2460
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-9_iphoneos-arm64.deb
+Size: 524984
+MD5sum: 4a89c3c4911303d2fb6c30b5e1ac852c
+SHA1: 75887dbd9aba93b752ce6b6dae892dd3368d5464
+SHA256: 2c8ef0df57f0bf2f6e0df0231f5306cba42b905306a50d9772ee66a743e9a67f
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
 Package: com.icraze.keepmyjb
 Version: 1.1
 Architecture: iphoneos-arm64e
