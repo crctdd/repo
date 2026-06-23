@@ -3210,6 +3210,39 @@ Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS1
 Author: iosdump
 Name: Zone
 
+Package: com.iosign.camera
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: iOSign
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.iosign.camera_0.1-2_iphoneos-arm64.deb
+Size: 3120
+MD5sum: 5461c2acba80f687ee27bccbaae10e74
+SHA1: b0cadbf5a17c4248c11acd865c35f551e347f11b
+SHA256: 0776d8be9ef48a4070e2a6608408a14fe52cdb7a799fcc9a24974b546715b264
+Section: 系统增强
+Description: 系统相机开启全屏拍照，禁用拍照快门声音
+Author: iOSign
+Name: 全屏相机
+
+Package: com.iosign.camera
+Version: 0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: iOSign
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.iosign.camera_0.1-2_iphoneos-arm64e.deb
+Size: 4302
+MD5sum: c0b23bfb429e3dcd7b8ff9e00fda639e
+SHA1: fca48f9485f502f5b9adf808124dea9082b08413
+SHA256: dbfc248c109653b698da12b0719fd97711b510556910b2512f90362c0b6b1714
+Section: 系统增强
+Description: 系统相机开启全屏拍照，禁用拍照快门声音
+Author: iOSign
+Name: 全屏相机
+
 Package: com.jontelang.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -3812,6 +3845,39 @@ Section: Tweaks
 Description: Tweak to enable the hidden storage settings
 Author: Nathan Senter
 Name: InternalStorageSettings
+
+Package: com.netskao.disableshuttersound
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Installed-Size: 149
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.netskao.disableshuttersound_1.1-2_iphoneos-arm64e.deb
+Size: 4528
+MD5sum: ec75546166a90744f00bd2d9d811b837
+SHA1: 1e0b61d10631d8028258813a28f397c994124f79
+SHA256: f04d864169a126f895f74a7849ad4ec8b57ddc8ce566646d0cc6bf4a00e55180
+Section: Rootless
+Description: 禁用拍照快门声音
+Author: Netskao
+Name: 禁用拍照快门声音
+
+Package: com.netskao.disableshuttersound
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 149
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.netskao.disableshuttersound_1.1-2_iphoneos-arm64.deb
+Size: 3252
+MD5sum: 4a5358c8ae63a13f5f4e8d8e80401dfa
+SHA1: 636ff23dc02b8d8aa4bdfcfd5cfb2a4d1fe02d32
+SHA256: 98c3e6ce447e7043b454beace6e470f1aaf7c35a45a8d8e6ba96060aa58b3d70
+Section: Rootless
+Description: 禁用拍照快门声音
+Author: Netskao
+Name: 禁用拍照快门声音
 
 Package: com.netskao.filzacrack
 Version: 1.1-9
