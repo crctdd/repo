@@ -1258,6 +1258,40 @@ Tag: supports::roothide
 Author: doimty
 Name: ProMotion 120Hz
 
+Package: com.doimty.promotion
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.doimty.promotion_1.0.7_iphoneos-arm64e.deb
+Size: 42096
+MD5sum: 8e39ba23966c84831e5d1d4eca089078
+SHA1: a51e6e218f615540b59c632a65109ad0a07b289f
+SHA256: 965b7277b89fc8db3367c67a1df316f336c853ddf9150dd556df9c25c665477d
+Section: Tweaks
+Description: Enables full 120Hz ProMotion by overriding the system 80Hz refresh-rate cap. Requires iPhone 13 Pro or later.
+Tag: supports::roothide
+Author: doimty
+Name: ProMotion 120Hz
+
+Package: com.doimty.promotion
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.doimty.promotion_1.0.7_iphoneos-arm64.deb
+Size: 42196
+MD5sum: 542a520c8e048e16d693561f1480a7da
+SHA1: 05f494bf880bf1a893179c25ae40c1f4d5889a39
+SHA256: 3ddb6a3b5b01ccad6615204dc1ce0a5daefb35919497dd0c90a3afecdd125ecd
+Section: Tweaks
+Description: Enables full 120Hz ProMotion by overriding the system 80Hz refresh-rate cap. Requires iPhone 13 Pro or later.
+Tag: supports::roothide
+Author: doimty
+Name: ProMotion 120Hz
+
 Package: com.helloms.plist
 Version: 0.0.1
 Architecture: iphoneos-arm64e
