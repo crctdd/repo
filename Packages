@@ -4541,6 +4541,41 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: subdiox
 Name: StoreSwitcher 2
 
+Package: com.susu.fuckwechatads
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: susu
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64e.deb
+Size: 17572
+MD5sum: 2a4bc99e63ce20f6cbe445953c63e2ba
+SHA1: 4301b0ca5c51a6edf5a853a5ebf76a2f7469f626
+SHA256: e602236728e90a3acc3e49d470ba559008f8f40876895b1b1caf776c61b74f52
+Section: 插件
+Description: No WeChatAds
+Author: susu
+Icon: https://www.susubaby.top/images/wechat.png
+Name: FuckWeChatAds
+
+Package: com.susu.fuckwechatads
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64.deb
+Size: 16864
+MD5sum: 45154d7d6608c4068023d2d85208c6e8
+SHA1: 766a9e78078ef51aed72df70b02934838fca03be
+SHA256: c4fc0278b673ecd9530b6ae2e08be1a95c77c35285e23ae35e5c597e984b0468
+Section: 插件
+Description: No WeChatAds
+Author: susu
+Icon: https://www.susubaby.top/images/wechat.png
+Name: FuckWeChatAds
+
 Package: com.tencent.themebox
 Version: 2.3.4
 Architecture: iphoneos-arm64e
