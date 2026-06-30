@@ -3999,39 +3999,6 @@ Description: 国行手机自动允许使用网络。
 Author: lenglengyu
 Name: Allow Network-Rootless
 
-Package: com.local.repokit
-Version: 0.1.0-7+debug
-Architecture: iphoneos-arm64e
-Maintainer: DaFei
-Installed-Size: 584
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), dpkg, dpkg-dev, gzip, zstd, git, openssh-client
-Filename: ./debs/com.local.repokit_0.1.0-7+debug_iphoneos-arm64e.deb
-Size: 192820
-MD5sum: 62e5be2e027951546a6ecc1ace422bd3
-SHA1: 72baca2efd89b4298e435c0e527f27bf0b107d64
-SHA256: 10abdac63da7ed5718eb3e0989dc6a2a6e8c1b5b59f032c57589eee1be5c61e8
-Section: Utilities
-Description: Local jailbreak repository manager with package CRUD, index building, and GitHub publishing.
-Author: DaFei
-Name: RepoKit
-
-Package: com.local.repokit
-Version: 0.1.0-7+debug
-Architecture: iphoneos-arm64
-Maintainer: DaFei
-Installed-Size: 584
-Depends: firmware (>= 15.0), dpkg, dpkg-dev, gzip, zstd, git, openssh-client
-Filename: ./debs/com.local.repokit_0.1.0-7+debug_iphoneos-arm64.deb
-Size: 148118
-MD5sum: 471b2f995005543f4bc0803d2c8bc71c
-SHA1: d92b0e2d5d2ceea21f4fa46fb87f95dc6427e6d7
-SHA256: 73cc6c9f134ee877a59f48022d7ee6e1ffc7d37a220c4bc4c2ac90bf83c0328e
-Section: Utilities
-Description: Local jailbreak repository manager with package CRUD, index building, and GitHub publishing.
-Author: DaFei
-Name: RepoKit
-
 Package: com.m4fn3.k2gecamen
 Version: 1.0.5
 Architecture: iphoneos-arm64
