@@ -4763,6 +4763,36 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/smoothinstall.png
 Name: SmoothInstall(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/smoothinstall/js.json
 
+Package: com.snail.allowlocationonce
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.allowlocationonce.rootless_1.0.deb
+Size: 63664
+MD5sum: 7b2b1f9874dc1b60fe15f3345f0f13e7
+SHA1: 0e26afd193f8e1608e103eb7a635e9a7dd64fa35
+SHA256: eb5eeccf3c2d80a90822e4d4d3006d87428dadcaaeba8510a7fde2cf33be8348
+Section: Rootless
+Description: 地理位置请求弹窗，自动"允许一次"
+Author: Snail
+Name: 位置自动允许一次
+
+Package: com.snail.allowlocationonce
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.allowlocationonce.roothide_1.0.deb
+Size: 64660
+MD5sum: 511ea0f37e3bbe99f634a3846550323e
+SHA1: d65cf5604353f2d8f0f6e85a4045e0d76ff9d7dd
+SHA256: d34628d1f7c16c2f578201023863ef2f377ffa6419f0ce0d014ad8e69d3227e2
+Section: Rootless
+Description: 地理位置请求弹窗，自动"允许一次"
+Author: Snail
+Name: 位置自动允许一次
+
 Package: com.subdiox.storeswitcher2
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -4943,6 +4973,60 @@ Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Author: TIGI Software
 Name: Filza File Manager 64-bit
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64e.deb
+Size: 414628
+MD5sum: 07e7bfb25cf04273c9384b9d78679dc8
+SHA1: 0b0d5988e82000e8f8949c0ebb4de95be4535909
+SHA256: eb6b546707190772385f54f8a0513b4bb687776b2200ccdccdf453adffa9f60b
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 2100
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm.deb
+Size: 422732
+MD5sum: 4714d5282ad10920f2cb66454397d914
+SHA1: d97f4b726d3882b2a47527bb24ab02b4fbd52382
+SHA256: b62fb0698fe445dcc1cc56f7651f717a8ef3e0f00981444079a01ab7a19a1168
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64.deb
+Size: 421416
+MD5sum: 1c86018ab470c9ca0acaa7c05f91d772
+SHA1: 0556e4c0a38ce75e1fdf9610806d61f029138a00
+SHA256: 7184bd2d2fa8cf677b701bf0c0239f28a35ba3ebe755bf536ed04a6d7b519c6a
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
 
 Package: com.vita.wchook
 Version: 1.0-1
