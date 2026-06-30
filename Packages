@@ -3999,6 +3999,43 @@ Description: 国行手机自动允许使用网络。
 Author: lenglengyu
 Name: Allow Network-Rootless
 
+Package: com.local.repokit.rootless
+Version: 0.1.0-48+debug
+Architecture: iphoneos-arm64e
+Maintainer: DaFei
+Installed-Size: 576
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), dpkg, dpkg-dev, gzip, zstd, git
+Filename: ./debs/com.local.repokit.rootless_0.1.0-48+debug_iphoneos-arm64e.deb
+Size: 188786
+MD5sum: 7292434a4509b7fb977ab12067b5866a
+SHA1: 3506caa1299df800be9e7906bc7ff9b1e2b9f0e9
+SHA256: a7a6a367dfdc3b510c7daa3d6fdde1a2360496ee0655ed90b41c401d5e79ecdf
+Section: Utilities
+Description: 本地越狱仓库管理器，支持包的增删改查、索引构建以及GitHub发布功能。
+ Local jailbreak repository manager with package CRUD, index building, and GitHub publishing.
+Author: DaFei
+Icon: https://langshiyunyi.github.io/my-repo/icons/repokit-rootless.png
+Name: RepoKit-rootless
+
+Package: com.local.repokit.rootless
+Version: 0.1.0-48+debug
+Architecture: iphoneos-arm64
+Maintainer: DaFei
+Installed-Size: 576
+Depends: firmware (>= 15.0), dpkg, dpkg-dev, gzip, zstd, git
+Filename: ./debs/com.local.repokit.rootless_0.1.0-48+debug_iphoneos-arm64.deb
+Size: 132256
+MD5sum: 43749c8a46bb4dbf462afeae967275bf
+SHA1: 341dac2fd732f86012da1eacd4bb4d7ee397e264
+SHA256: 6c0b6239a5ad1b696e46b913a163cd1f1f6ac27d7a275e45aa022541198c367a
+Section: Utilities
+Description: 本地越狱仓库管理器，支持包的增删改查、索引构建以及GitHub发布功能。
+ Local jailbreak repository manager with package CRUD, index building, and GitHub publishing.
+Author: DaFei
+Icon: https://langshiyunyi.github.io/my-repo/icons/repokit-rootless.png
+Name: RepoKit-rootless
+
 Package: com.m4fn3.k2gecamen
 Version: 1.0.5
 Architecture: iphoneos-arm64
