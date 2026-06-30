@@ -4574,6 +4574,74 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/disabledwarning.png
 Name: DisabledWarning(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/disabledwarning/js.json
 
+Package: com.sini921.donut
+Version: 0.0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sini921.donut_0.0.1-2_iphoneos-arm64e.deb
+Size: 34980
+MD5sum: bfc2d782e07f1055697bd1bddb321554
+SHA1: 2ee0fd6358170e782aa017a4b57d9e22a9f4e622
+SHA256: 37a780d1e6e679b411e3ea95a60d6f6ad403cfb7c0e7935c7ba3b44455bc3c85
+Section: 越狱插件
+Description: 桌面图标通知角标变成空心小圆圈
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/donut.png
+Name: Donut
+
+Package: com.sini921.donut
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sini921.donut_0.0.1-2_iphoneos-arm64.deb
+Size: 36044
+MD5sum: 3c44e6f9751929228b511dda9e0f995c
+SHA1: 1c87ab72d09ca78f3b42e1adebbce1aeb5fd9cc7
+SHA256: d42d33e1c60502b73446b06ec12f1e2f0024b3d6b570fbeec08f0c096eacffbe
+Section: 越狱插件
+Description: 桌面图标通知角标变成空心小圆圈
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/donut.png
+Name: Donut
+
+Package: com.sini921.indicators
+Version: 1.2-23
+Architecture: iphoneos-arm64e
+Maintainer: LacertosusDeus & SINI
+Installed-Size: 584
+Depends: mobilesubstrate
+Filename: ./debs/com.sini921.indicators_1.2-23_iphoneos-arm64e.deb
+Size: 81600
+MD5sum: 95e3c82421f32ffbf76dd5960b4ca940
+SHA1: 1595b0207f0e48b5e81377534ba4673a3c9d799f
+SHA256: 8eff405ee38e8b83065fe0035d656140e28a7caaeb0a6a74637085cdece284c0
+Section: 越狱插件
+Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
+Author: LacertosusDeus & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/indicators.png
+Name: Indicators
+
+Package: com.sini921.indicators
+Version: 1.2-23
+Architecture: iphoneos-arm64
+Maintainer: LacertosusDeus & SINI
+Installed-Size: 584
+Depends: mobilesubstrate
+Filename: ./debs/com.sini921.indicators_1.2-23_iphoneos-arm64.deb
+Size: 82292
+MD5sum: c57979be4923c5e00a64f7e73dd8fd40
+SHA1: 0836da0efa4b1897031ff5e886adb59535d6b3e7
+SHA256: 0153518c7ab60da8bf577739f10c0ace0bfd1ff351d1882c5d73a381afc6f805
+Section: 越狱插件
+Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
+Author: LacertosusDeus & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/indicators.png
+Name: Indicators
+
 Package: com.sini921.smoothinstall
 Version: 0.0.1-1
 Architecture: iphoneos-arm64e
