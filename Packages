@@ -4203,6 +4203,58 @@ Description: 轻量 deb 下载工具，不支持付费才能下的插件
 Author: zhaonan
 Name: debd
 
+Package: com.nan.injectipa
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0)
+Conflicts: netskao.injectipa-rootless
+Provides: netskao.injectipa-rootless (=1.4-4)
+Filename: ./debs/com.nan.injectipa_1.4-4_iphoneos-arm64.deb
+Size: 963136
+MD5sum: 02ddfcba09e8177b198e11a024bac306
+SHA1: 075dd4151eeaa918af89e97a4de4865de21e541a
+SHA256: 2b407e0b93862cf7267cbee5f74b5e84f8214d15887f8a2c4722e41cf8a206b0
+Section: Terminal_Support
+Description: injectipa 是一款命令行一键注入dylib 到 ipa 工具。用法: injectipa ipa 路径 dylib 路径 (如有多个 dylib 依次填写在末尾即可), 其它参数执行 injectipa 查看即可, 注入完成后的 IPA 需要签名使用
+Author: Netskao
+Name: injectipa
+
+Package: com.nan.injectipa
+Version: 1.4-4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: netskao.injectipa-rootless
+Provides: netskao.injectipa-rootless (=1.4-4)
+Filename: ./debs/com.nan.injectipa_1.4-4_iphoneos-arm64e.deb
+Size: 2786252
+MD5sum: 1964bd50e6846bd4231ad28e7c91ec77
+SHA1: 78453a9bbbad257a62a29636903c58e46bdf07d1
+SHA256: 2e37dd763577f1334c2305cb67103fd3875fc767e6b4082db5928d8e1f625236
+Section: Terminal_Support
+Description: injectipa 是一款命令行一键注入dylib 到 ipa 工具。用法: injectipa ipa 路径 dylib 路径 (如有多个 dylib 依次填写在末尾即可), 其它参数执行 injectipa 查看即可, 注入完成后的 IPA 需要签名使用
+Author: Netskao
+Name: injectipa
+
+Package: com.nan.injectipa
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0)
+Conflicts: netskao.injectipa
+Provides: netskao.injectipa (=1.4-4)
+Filename: ./debs/com.nan.injectipa_1.4-4_iphoneos-arm.deb
+Size: 945964
+MD5sum: dadf6f7c4973aa6dc723c822be6a8d2f
+SHA1: c7a43cdb85b6e0f2dcdad87870fbcdcd8b5b64b8
+SHA256: bfc3fad3b21a44e6ca76ea9217644cac9664812fa9d94a667c54f59ae8e86635
+Section: Terminal_Support
+Description: injectipa 是一款命令行一键注入dylib 到 ipa 工具。用法: injectipa ipa 路径 dylib 路径 (如有多个 dylib 依次填写在末尾即可), 其它参数执行 injectipa 查看即可, 注入完成后的 IPA 需要签名使用
+Author: Netskao
+Name: injectipa
+
 Package: com.nathan.dynamichiderecordland
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5560,4 +5612,37 @@ Depiction: https://repo.cypwn.xyz/depiction/3200
 Icon: https://repo.cypwn.xyz/packages/StartupOptimizations-Rootless/icon.png
 Name: StartupOptimizations
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3200
+
+Package: zp.stopshortcutsautomationnotif
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/zp.stopshortcutsautomationnotif_1.0.1_iphoneos-arm64e.deb
+Size: 4462
+MD5sum: 659f7f61c3da7196cb1caa90a1de5809
+SHA1: 7534e636be6b3bf6d26ff4d659e5e3373538f98b
+SHA256: 1e07d7fefb1aeb42a739db4e6c4cdec29c68aea54b0e4756d8af02fb6808aa1b
+Section: Tweaks
+Description: 屏蔽快捷指令自动化通知!
+Author: zqbb
+Name: 屏蔽快捷指令自动化通知
+
+Package: zp.stopshortcutsautomationnotif
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/zp.stopshortcutsautomationnotif_1.0.1_iphoneos-arm64.deb
+Size: 3172
+MD5sum: 4924bf448839cb5f719bbed624a7cdc1
+SHA1: 64490387d385a7fe234e8cca6949192501d34fc0
+SHA256: 7bd69ffea1959b0a29f83bc38bec7c49c8cc3a88e73008099e00cbbed9b18deb
+Section: Tweaks
+Description: 屏蔽快捷指令自动化通知!
+Author: zqbb
+Name: 屏蔽快捷指令自动化通知
 
