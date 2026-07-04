@@ -4868,42 +4868,6 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/tweaksett.png
 Name: TweakSettings(rootless)
 
-Package: com.sini921.appstoretroller
-Version: 0.1.2-5
-Architecture: iphoneos-arm64
-Maintainer: Mineek & Nathan & SINI
-Installed-Size: 568
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64.deb
-Size: 46268
-MD5sum: b76859e824d5fe28c5fe8696cd737068
-SHA1: 37d7504adb79d0f22a800f04e53a2f2297520f31
-SHA256: 5487ec1b7e551337695f36fe24c0cd180d238a6704bc1163550b2540f359e879
-Section: 越狱插件
-Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
-Author: Mineek & Nathan & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
-Name: AppStoreTroller(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
-
-Package: com.sini921.appstoretroller
-Version: 0.1.2-5
-Architecture: iphoneos-arm64e
-Maintainer: Mineek & Nathan & SINI
-Installed-Size: 568
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64e.deb
-Size: 44024
-MD5sum: 8a3ed1e1a89cc149ffd5b8a30a699e20
-SHA1: cc41affc7f02f32de26a4fa90cd99ea8b66cacfd
-SHA256: 1588198fda0dfd47bfe554fe20ee91d25c7a9f6168794c86f9e2916b7ad6e4ff
-Section: 越狱插件
-Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
-Author: Mineek & Nathan & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
-Name: AppStoreTroller(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
-
 Package: com.sini921.disabledwarning
 Version: 0.0.1-2
 Architecture: iphoneos-arm64e
