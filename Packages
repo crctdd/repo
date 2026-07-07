@@ -4296,6 +4296,57 @@ Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 Name: K2gecamen
 
+Package: com.m4fn3.myrtle
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: mafu
+Installed-Size: 15272
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.4.0_iphoneos-arm64.deb
+Size: 4586104
+MD5sum: 8130e3af6f975ae1c953ecb33b363758
+SHA1: 48cdce7b83bf4ea59a6a490f0e78946b7309d226
+SHA256: d077a9d92c69eb64f87dd075183b5eceb021f937cc184eced5e73240d4167b6e
+Section: Tweaks
+Description: Ultimate control over your device through multitasking.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+Name: Myrtle
+
+Package: com.m4fn3.myrtle
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: mafu
+Installed-Size: 15320
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.4.0_iphoneos-arm.deb
+Size: 4614454
+MD5sum: 52419cf43da83b80fdc7b62dfb3e4236
+SHA1: f34a5f8555cdcdfc0f51dc597aef492f23a56382
+SHA256: a9f65a748b65e40529b111488aab7e826eef31b69f36e855dd0a3924cda00c3c
+Section: Tweaks
+Description: Ultimate control over your device through multitasking.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+Name: Myrtle
+
+Package: com.m4fn3.myrtle
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: mafu
+Installed-Size: 15352
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.4.0_iphoneos-arm64e.deb
+Size: 4531868
+MD5sum: 02e2baa4bcaa81a96e3ab91b01c63678
+SHA1: ef0a25206128bf43c0dd34a9b03f9e879f8437cd
+SHA256: c8cad9fe0e0a1136435e98d2a6354f156794f4cf846aaf27e7fbfce7514aae18
+Section: Tweaks
+Description: Ultimate control over your device through multitasking.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+Name: Myrtle
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm
