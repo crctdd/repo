@@ -309,6 +309,42 @@ Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
 Name: Hello Kayoko
 Sileodepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
 
+Package: codes.aurora.kayoko
+Version: 3.6.0-5
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1212
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_3.6.0-5_iphoneos-arm64e.deb
+Size: 166222
+MD5sum: d16afd73a7af4eff3741c964376a74ca
+SHA1: 918a54bec67e75338ed5e1847174d85ae35772e3
+SHA256: 26680f11fb2dd9e8cbf45533813f24de65cfabb33ff596f6174d19c1459c8e72
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
+Name: Hello Kayoko
+Sileodepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
+
+Package: codes.aurora.kayoko
+Version: 3.6.0-5
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1228
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_3.6.0-5_iphoneos-arm64.deb
+Size: 168770
+MD5sum: 268d6965f6d9e19e8169e3a2dfb97091
+SHA1: ced4975022e4358c9ff593e7640c181282161541
+SHA256: 463f6661c7f513a1dac793e6b4186bb22102b58f8248e9290b38c555abe23ff7
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
+Name: Hello Kayoko
+Sileodepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
+
 Package: com.25mao.BubbleBox
 Version: 1.0-5
 Architecture: iphoneos-arm64
