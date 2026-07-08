@@ -5503,6 +5503,40 @@ Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 Name: Ring (无设置项)
 
+Package: com.zqbb.savephotos
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.zqbb.savephotos_1.1-1_iphoneos-arm64.deb
+Size: 4178
+MD5sum: ae71de4c4e424fb49a5d48b28b3fc7e3
+SHA1: 98561d3b8e68809b0885f2eaf4d7b199ba9ec726
+SHA256: 66a3166fc534c114b3a6a874091ced0dc93d5b98071b07f87795e66229d98b3c
+Section: Tweaks
+Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Name: Hello Snapper3
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
+Package: com.zqbb.savephotos
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.zqbb.savephotos_1.1-1_iphoneos-arm64e.deb
+Size: 3296
+MD5sum: 1751150cd474aa50ff0f747272d0a6d8
+SHA1: d40c1bc63b1cb61cb3fd2dd18b5ea39ab9f606be
+SHA256: 42f539dc5c21251f0b5cdfd22d65496d73e1db34ee676f7f567c20f353199490
+Section: Tweaks
+Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Name: Hello Snapper3
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
 Package: daniel.batman
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm64e
