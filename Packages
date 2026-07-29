@@ -233,6 +233,22 @@ Icon: https://apt.002599.xyz/web/icon/cn.zqbb.ccatop.png
 Name: CocoaTop
 Sileodepiction: https://apt.002599.xyz/web/cn.zqbb.ccatop
 
+Package: cn.zqbb.hello.varjb
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/cn.zqbb.hello.varjb_1.0_iphoneos-arm64e.deb
+Size: 2452
+MD5sum: 0b583ce38645d0ee3de60813f8e87788
+SHA1: a563dd62aca980d04ffb4e0d0f6547b59248c6c7
+SHA256: 7b6420599f6bfacae7ef338f910cdf5bb4c4d69cb979ffaab7520befde5ca761
+Section: zqbb Tweaks
+Description: 可以修复 relaxin 中的 snapper3 问题!
+Author: zqbb
+Name: Hello VarJB
+
 Package: cn.zqbb.stopautolaunchapps
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -6442,6 +6458,22 @@ Section: RootHide Patches
 Description: RootHide Dynamic Patches For Filza
 Author: roothide
 Name: Patches for Filza 64bit
+
+Package: rootless-compat
+Version: 1.9
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 284
+Depends: com.roothide.patchloader(>= 0.0.4)
+Filename: ./debs/rootless-compat_1.9_iphoneos-arm64e.deb
+Size: 39652
+MD5sum: abdaf7611f17b38aa400b229e30d980b
+SHA1: 27b3586ccd51b9930b1b37daf23d46c335f71f64
+SHA256: ab50240ef824cf476628d6cac4fdf4ed9ebc1befc469b795d9edc3afa19c8bcf
+Section: RootHide Patches
+Description: Compat Layer for Rootless Tweaks
+Author: roothide
+Name: rootless-compat
 
 Package: ws.hbang.newterm3
 Version: 3.0~beta1
