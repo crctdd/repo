@@ -5552,6 +5552,22 @@ Author: Crassna
 Name: Stheno (最终版)
 
 Package: com.opa334.trollstorelite
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Fluoxetine <1103945342@qq.com>
+Installed-Size: 1329
+Depends: ldid, ellekit
+Filename: ./debs/com.opa334.trollstorelite_1.0.3_iphoneos-arm64e.deb
+Size: 590222
+MD5sum: 9964a6b81dc495a765e6ce99328e62da
+SHA1: 881d0ab30cf8aaecc64e99b03d66120dc724d5f9
+SHA256: 853fb3707c8d5fa4c3321c96d4d66dc6270e9d9ac42e10f7660f381ffd13c9bb
+Section: Applications
+Description: 巨魔R由Fluoxetine为Relaxin越狱特别制作。支持免签安装IPA,Tipa应用。支持注入任意dylib和deb插件。Bug反馈及意见建议:1103945342@qq.com。感谢Relaxin越狱，感谢opa334。
+Author: Fluoxetine为Relaxin越狱特别制作
+Name: 巨魔R
+
+Package: com.opa334.trollstorelite
 Version: 2.1.1
 Architecture: iphoneos-arm64
 Maintainer: opa334
