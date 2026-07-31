@@ -1,3 +1,24 @@
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm64e
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (<< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm64e.deb
+Size: 53712
+MD5sum: e4ad9d1627719b92a94cc74c4d35bf04
+SHA1: a59027d8089cca6cb9366cfdf784e772b95b7c9e
+SHA256: a6359a79568471da3ff101e0cb71b28b028e8a134e0074d01ef7c7ef46a33656
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
 Package: cn.fkj233.watchfix
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -5529,6 +5550,54 @@ Section: Tweaks
 Description: 最终版Stheno分屏 (免费)
 Author: Crassna
 Name: Stheno (最终版)
+
+Package: com.opa334.trollstorelite
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 592
+Depends: ldid
+Filename: ./debs/com.opa334.trollstorelite_2.1.1_iphoneos-arm64.deb
+Size: 212938
+MD5sum: cb9eef492a726584e54f0c85418d2b96
+SHA1: d8b2cbe68363fc24c38363822eb189c67b2cff84
+SHA256: 61ffce0715de3043abaf995c303a5975ecae87a406eff9219b15d7d0bba17b33
+Section: Applications
+Description: TrollStore for jailbroken iOS
+Author: opa334
+Name: TrollStore Lite
+
+Package: com.opa334.trollstorelite
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 592
+Depends: ldid
+Filename: ./debs/com.opa334.trollstorelite_2.1.1_iphoneos-arm.deb
+Size: 213316
+MD5sum: 1a8f866aa0c989683cb37810ff4699d1
+SHA1: 399c181fc020f7bc55d6da0b008ef9842f9e6450
+SHA256: 15901a97f599bf38f4e919ec782f63b66d0a3d87cccecf04184c62ea70578aba
+Section: Applications
+Description: TrollStore for jailbroken iOS
+Author: opa334
+Name: TrollStore Lite
+
+Package: com.opa334.trollstorelite
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 556
+Depends: ldid
+Filename: ./debs/com.opa334.trollstorelite_2.1.1_iphoneos-arm64e.deb
+Size: 211724
+MD5sum: c5aa97e3524b8383ac9aba09e88fc488
+SHA1: 5b42782e3bee9b9c88f229bb970c0203dbfddc45
+SHA256: c4559fbaf83ab3ba2c941f522c7d88a5ac8aa7606c6083166d3ae5424ffa5d03
+Section: Applications
+Description: TrollStore for RootHide jailbroken iOS
+Author: opa334
+Name: TrollStore Lite (RootHide)
 
 Package: com.ps.recordpauses
 Version: 2.0.3
