@@ -254,6 +254,40 @@ Icon: https://apt.002599.xyz/web/icon/cn.zqbb.ccatop.png
 Name: CocoaTop
 Sileodepiction: https://apt.002599.xyz/web/cn.zqbb.ccatop
 
+Package: cn.zqbb.hello.mnt
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 2648
+Filename: ./debs/cn.zqbb.hello.mnt_1.0.0_iphoneos-arm64e.deb
+Size: 727244
+MD5sum: b8b5b52360e526b37205c08a0659be1f
+SHA1: c53e58d26bf6097ec3cdf253494a22284ee86f59
+SHA256: ee3be8ebf8c02bb3f0a2cad5d8f15e5540b0eab7af495374ffc7e22eb28f9d0a
+Section: zqbb Tweaks
+Description: Relaxin 挂载器!
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.mnt.png
+Name: HelloMnt
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.mnt
+
+Package: cn.zqbb.hello.mnt
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 2680
+Filename: ./debs/cn.zqbb.hello.mnt_1.0.0_iphoneos-arm64.deb
+Size: 716474
+MD5sum: b60e284f42ee8687002e6b00ec35e4ad
+SHA1: 41b3b3656b857e2456f5a75114bdd05476ddb59f
+SHA256: dc0648d70a91d0d8e5cded998d534fdd4504fcf167ba98e82375f3abe0c2a4f1
+Section: zqbb Tweaks
+Description: Relaxin 挂载器!
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.mnt.png
+Name: HelloMnt
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.mnt
+
 Package: cn.zqbb.hello.varjb
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -306,6 +340,44 @@ Section: Tweaks
 Description: 禁用ios热启动神经网络引擎,别在后台热加载app咯!
  - 优点:节约内存,少杀后台.
  - 玄学:减少重启概率
+Author: zqbb
+Name: Hello 3Q
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
+
+Package: cn.zqbb.stopautolaunchapps
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 828
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.stopautolaunchapps
+Filename: ./debs/cn.zqbb.stopautolaunchapps_2.0_iphoneos-arm64e.deb
+Size: 175362
+MD5sum: 46ca2afbfb8b8e43b79490490b0529b8
+SHA1: 9a41028ccb1d33b2c7fe723c4294a253176c214f
+SHA256: e4a240345563b125106582822c94bd431c0b054fe6b396e8d366b2a24caa452e
+Section: zqbb Tweaks
+Description: 别在后台热加载app咯!
+ - 优点:节约内存,少杀后台.
+Author: zqbb
+Name: Hello 3Q
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
+
+Package: cn.zqbb.stopautolaunchapps
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 892
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.stopautolaunchapps
+Filename: ./debs/cn.zqbb.stopautolaunchapps_2.0_iphoneos-arm64.deb
+Size: 188414
+MD5sum: d1a9f68b7eb29ac58f508d3585a2eb9f
+SHA1: dd1d5b3077b9741ecdab1b96c5bde83be7851e40
+SHA256: 9e0f87fd4929fbc8c810c3b4a60930699f5b3012807dfde4a453b14be94c9070
+Section: zqbb Tweaks
+Description: 别在后台热加载app咯!
+ - 优点:节约内存,少杀后台.
 Author: zqbb
 Name: Hello 3Q
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
@@ -528,6 +600,22 @@ Priority: optional
 Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手-Rootless
+
+Package: com.82flex.cranepkdserverfix
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 72
+Depends: firmware (>= 17.0), mobilesubstrate, com.opa334.crane
+Filename: ./debs/com.82flex.cranepkdserverfix_0.0.1_iphoneos-arm64e.deb
+Size: 2698
+MD5sum: c52b61b377d7a42d480bbef54648b4e1
+SHA1: 1d92775235cd5052dc258f6b8cb79e5750b47000
+SHA256: c23dffee05bfe6e3e2b847efe3a5ce71f20d359539658352cef0bfd99f3ecdd7
+Section: Tweaks
+Description: Repairs Crane PKDServer discovery on iOS 17.
+Author: 82flex
+Name: Crane PKDServer Fix
 
 Package: com.82flex.unseen
 Version: 0.0.1
