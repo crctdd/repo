@@ -288,6 +288,23 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.mnt.png
 Name: HelloMnt
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.mnt
 
+Package: cn.zqbb.hello.mnt
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 3108
+Filename: ./debs/cn.zqbb.hello.mnt_1.2.0_iphoneos-arm64e.deb
+Size: 827612
+MD5sum: e85c38d06188dab37d9b2951e50fe7c2
+SHA1: 524e19cc8d1b5c777d28e94c0da50281d4113257
+SHA256: a3c8bad91dad3f0d2dadd54e6aa474de924b11e3fde3ed72251e63a9b59b84c2
+Section: zqbb Tweaks
+Description: Relaxin 挂载器!
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.mnt.png
+Name: HelloMnt
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.mnt
+
 Package: cn.zqbb.hello.varjb
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -6807,6 +6824,45 @@ Section: RootHide Patches
 Description: RootHide Dynamic Patches For Filza
 Author: roothide
 Name: Patches for Filza 64bit
+
+Package: wiki.qaq.inspector
+Version: 0.1.3
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 7456
+Depends: firmware (>= 17.0), uikittools, launchctl
+Filename: ./debs/wiki.qaq.inspector_0.1.3_iphoneos-arm64e.deb
+Size: 2664824
+MD5sum: 4ed474119bd39f44d31f3e2c75a66aec
+SHA1: a82332078ab41b1aca2914f3c3f007c4c6b91967
+SHA256: 1caa734a1a4d751f49f4fbfdcc6b25459aa9c80d5c603366b2a37db21ec45634
+Section: Utilities
+Priority: optional
+Description: Live process inspector for roothide
+ Inspector samples every process on the device once a second and shows what the system is really doing.
+ .
+ ### Process list
+ .
+ - CPU share, memory footprint, thread count, PID, and owning user, refreshed every second
+ - Search by name or PID; sort by CPU, memory, PID, or name
+ - Filter down to system (root), user (mobile), or app processes
+ - Pause live updates to hold a moment still
+ .
+ ### Per-process detail
+ .
+ - Resource use: CPU time, memory footprint, resident and virtual size, disk and network I/O
+ - Executable path, arguments, sandbox status, and app bundle metadata
+ - Separate screens for threads, open files and sockets, Mach ports, and loaded modules — each with its own search, sort order, and share action
+ - Export the complete detail set as a property list for later analysis
+ - Ask a process to quit (SIGTERM), or force quit it (SIGKILL)
+ .
+ ### Command line
+ .
+ `cocoainspector` answers the same queries for scripting — `list`, `inspect`, `details`, `watch`, `signal`, and `self-test` — served by `cocoainspectord`, an on-demand LaunchDaemon that holds one session at a time.
+ .
+ Localized into English, Simplified Chinese, Japanese, Russian, German, French, Spanish, and Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Name: Inspector
 
 Package: ws.hbang.newterm3
 Version: 3.0~beta1
