@@ -1611,6 +1611,51 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.cydiageek.shynotificationsapps
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 10.0)
+Filename: ./debs/com.cydiageek.shynotificationsapps_1.0.0_iphoneos-arm64e.deb
+Size: 7374
+MD5sum: bae7bbd386cb5a7221a63f309d01cde9
+SHA1: e6beac4d245ecec7d3a700b43320209063d7f354
+SHA256: 63726cd11a3a4ef86e28f824975b5c9b0ba432e9bc2b21b565e40a089a467fac
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotificationsappsDp
+Description: 通知不亮屏幕，此插件为白名单模式，需要手动打开开关才能亮屏幕。Whitelist Apps for waking Screen when received Notification!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotificationsappsDp
+Dev: lucaluca86
+Name: 通知不亮屏幕 (白名单)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cydiageek.shynotificationsapps
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 10.0)
+Filename: ./debs/com.cydiageek.shynotificationsapps_1.0.0_iphoneos-arm64.deb
+Size: 5404
+MD5sum: b01705397ff52e9b42b290085d439dd3
+SHA1: 4a56e5ab3624d32fdac39e2f70da4326b51fb552
+SHA256: e960ca18740d58e26eb72052e3fcb75d80750603f9080f7c3a1494fe70c72a2f
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotificationsappsDp
+Description: 通知不亮屏幕，此插件为白名单模式，需要手动打开开关才能亮屏幕。Whitelist Apps for waking Screen when received Notification!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotificationsappsDp
+Dev: lucaluca86
+Name: 通知不亮屏幕 (白名单)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.dao.ccless
 Version: 2.1.0.1
 Architecture: iphoneos-arm64e
@@ -1645,6 +1690,43 @@ Description: 超级控制中心模块集合！
 Author: 妖刀
 Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
+
+Package: com.developlab.appbadges
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: developlab
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.developlab.appbadge
+Filename: ./debs/com.developlab.appbadges_1.0_iphoneos-arm64.deb
+Size: 8196
+MD5sum: b4bc2b05ed2155107cb6086d88e943b8
+SHA1: 8f049ff65689d0d30e924a68aee95aba17bcc172
+SHA256: 244fd2d67848fff00f3e8e9578df3c7b5794ca01526a3e6c475d62fd4e934d9e
+Section: 插件
+Description: 在刘海或灵动岛下显示应用的「图标、名称、版本」
+Author: developlab
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
+Name: AppBadge 应用胶囊
+
+Package: com.developlab.appbadges
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: developlab
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.developlab.appbadge
+Filename: ./debs/com.developlab.appbadges_1.0_iphoneos-arm64e.deb
+Size: 9252
+MD5sum: 2d7a934d3a5a008b0df2919c1c93077b
+SHA1: 0e9592fd669cef65b9fbded404f58c03514be8d6
+SHA256: 926928383a0dca3ed80ea3530cfc8c0809b38c327a7ce9793089103092da5c38
+Section: 插件
+Description: 在刘海或灵动岛下显示应用的「图标、名称、版本」
+Author: developlab
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
+Name: AppBadge 应用胶囊
 
 Package: com.doimty.promotion
 Version: 1.0.11
