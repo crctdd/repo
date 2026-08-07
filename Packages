@@ -1611,51 +1611,6 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
-Package: com.cydiageek.shynotificationsapps
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 175
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 10.0)
-Filename: ./debs/com.cydiageek.shynotificationsapps_1.0.0_iphoneos-arm64e.deb
-Size: 25222
-MD5sum: 0f3f2e2930db36ebc9563b04297e8e84
-SHA1: c2af7eec6ed2283ffdae9ecd62eaab0862aa20b8
-SHA256: d4fd07467a7e2dc2ccf63fd35d88a3971f5d9cc72817ee7ac141aefa2540de87
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotificationsappsDp
-Description: 来通知不亮屏幕，白名单除外
-Tag: purpose::extension
-Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotificationsappsDp
-Dev: lucaluca86
-Name: 通知不亮屏幕
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.cydiageek.shynotificationsapps
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 175
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 10.0)
-Filename: ./debs/com.cydiageek.shynotificationsapps_1.0.0_iphoneos-arm64.deb
-Size: 23284
-MD5sum: d94f142c7f5a75fe9a8bdeffe94f3831
-SHA1: 7844743cec30888e41acb119d6dafdf0fecb9f4f
-SHA256: 3f21f3eccc692c5fd4b355623b6687062e37d3109ac2a9bdd761902a665a063e
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotificationsappsDp
-Description: 来通知不亮屏幕，白名单除外
-Tag: purpose::extension
-Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotificationsappsDp
-Dev: lucaluca86
-Name: 通知不亮屏幕
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.dao.ccless
 Version: 2.1.0.1
 Architecture: iphoneos-arm64e
@@ -5936,6 +5891,39 @@ Description: 录像暂停 Pause/resume video recording in iOS Camera app.
 Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
+
+Package: com.rain.wallpapergenerator
+Version: 1.0.0-15+debug
+Architecture: iphoneos-arm64e
+Maintainer: Rain
+Installed-Size: 672
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.iosdump.zone
+Filename: ./debs/com.rain.wallpapergenerator_1.0.0-15+debug_iphoneos-arm64e.deb
+Size: 121434
+MD5sum: e6d70b4f45752961c8f62d73d83e1163
+SHA1: 8450e91585fe515969ce019cd5bb4147ff2bfd4a
+SHA256: dd648a6c365e966fe81c50a3ac8ff4066afc0807d649598db1959953d1e601a4
+Section: Tweaks
+Description: 选择2-6张透明PNG图片，一键生成动态壁纸配合Zone插件使用
+Author: Rain
+Name: Rain的锁屏壁纸
+
+Package: com.rain.wallpapergenerator
+Version: 1.0.0-15+debug
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader, com.iosdump.zone
+Filename: ./debs/com.rain.wallpapergenerator_1.0.0-15+debug_iphoneos-arm64.deb
+Size: 96696
+MD5sum: 281245a9b720504104c4e234a775b24b
+SHA1: f7b5f6bd3292abff4bf52f85613c978dd42b9470
+SHA256: bd7ddb46c1c0df70cb7b35a955403b25add7ae878806091319ce00e98925d11e
+Section: Tweaks
+Description: 选择2-6张透明PNG图片，一键生成动态壁纸配合Zone插件使用
+Author: Rain
+Name: Rain的锁屏壁纸
 
 Package: com.roothide.lockdown
 Version: 1.0.1
