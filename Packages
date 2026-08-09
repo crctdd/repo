@@ -5463,6 +5463,45 @@ Description: 国行手机自动允许使用网络。
 Author: lenglengyu
 Name: Allow Network-Rootless
 
+Package: com.lns.whereplays
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.whereplay
+Filename: ./debs/com.lns.whereplays_0.0.2_iphoneos-arm64.deb
+Size: 6212
+MD5sum: 99e091bbac826cb31023efc474f45c0b
+SHA1: 21af774be5185343dd30a6aa197d0ca1acd0588b
+SHA256: 0e7ba106f9407d7dbe64421cbda0026f2e06a8a49a23fd3b1e2c69676a6bbd9e
+Section: Tweaks
+Description: 将“隔空播放”图标替换为已连接设备的 iOS 插件
+ * An iOS tweak that replaces the AirPlay icon to the device connected
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
+Name: WherePlay
+
+Package: com.lns.whereplays
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.whereplay
+Filename: ./debs/com.lns.whereplays_0.0.2_iphoneos-arm64e.deb
+Size: 7248
+MD5sum: 2dea69ee87144510bc672af52757c920
+SHA1: 155285369054c8b352a74fc8a8d755009c53a5e9
+SHA256: 1461c4b4f3654d560ecfdd6e57c14f89930477c503244c92c96bff0280e66259
+Section: Tweaks
+Description: 将“隔空播放”图标替换为已连接设备的 iOS 插件
+ * An iOS tweak that replaces the AirPlay icon to the device connected
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
+Name: WherePlay
+
 Package: com.local.repokit.rootless
 Version: 0.1.0-48+debug
 Architecture: iphoneos-arm64
@@ -5709,6 +5748,57 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Author: MrGcGamer
 Name: LibGcUniversal
+
+Package: com.nan.deb
+Version: 0.3.0
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: coreutils, sed, findutils
+Filename: ./debs/com.nan.deb_0.3.0_iphoneos-arm64.deb
+Size: 4280
+MD5sum: 8d85747587fa2d3cb2733408bb0d28fd
+SHA1: eb2db2c14f4b615e001c2a957886deddedcd5638
+SHA256: b118565c12aa7257b0ab4c2b372e890586f84931ff0ea2aba059f74fec91a602
+Section: Terminal_Support
+Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+Name: deb
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
+
+Package: com.nan.deb
+Version: 0.3.0
+Architecture: iphoneos-arm64e
+Maintainer: zhaonan
+Depends: coreutils, sed, findutils
+Filename: ./debs/com.nan.deb_0.3.0_iphoneos-arm64e.deb
+Size: 4260
+MD5sum: 01da4bd69920757d94adaf2fcfebc8ee
+SHA1: b398d75478a7ef64d2c1ed6e18a3b8d9de649175
+SHA256: a4ab792400b7a63c6193eae143b2e51f9a81c420bdc617cbbcf7bcb8319120e9
+Section: Terminal_Support
+Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+Name: deb
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
+
+Package: com.nan.deb
+Version: 0.3.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: coreutils, sed, findutils
+Filename: ./debs/com.nan.deb_0.3.0_iphoneos-arm.deb
+Size: 4256
+MD5sum: 00618140c2f08ffd09f91d45ef9a27a4
+SHA1: 4bfcfa89191dae4debb83a577ba73db2cbe9958b
+SHA256: 113ad5b29aba433ad54e59d3b35193ff436c53f070bcf0172fb735b17c8fc0d3
+Section: Terminal_Support
+Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+Name: deb
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
 
 Package: com.nan.debd
 Version: 0.4.2
@@ -7262,6 +7352,23 @@ Section: RootHide Patches
 Description: RootHide Dynamic Patches For Filza
 Author: roothide
 Name: Patches for Filza 64bit
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4-2
+Architecture: iphoneos-arm64e
+Maintainer: Ash
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4-2_iphoneos-arm64e.deb
+Size: 262204
+MD5sum: 8e6249a1032e5eea68cc46d3d7e22528
+SHA1: aa688e84413e3ade0cce7fc53648a59fef9c9d1c
+SHA256: 985b12d720c87559aee898529d3a4291ec8bceac65d3c6e36ca0f9b3ece53213
+Section: 应用程序
+Description: 完美版。
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
 
 Package: wiki.qaq.inspector
 Version: 0.1.3
