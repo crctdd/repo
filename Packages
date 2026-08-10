@@ -3671,6 +3671,38 @@ Section: Utilities
 Description: open <path> -> uiopen filza://... (shell wrapper for roothide/libiosexec environments)
 Name: Filza Open (shell)
 
+Package: com.iosdump.freegrid
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.iosdump.freegrid_0.0.1_iphoneos-arm64.deb
+Size: 13832
+MD5sum: 703c5c27625dc6921c9b8a491b68f334
+SHA1: d726924e3f0b1c1610dc8d51dab048f0f634508e
+SHA256: c8976595914d154264f45c752f6e05ea9b22c1e9fc6de8b0746f4b31a19934a0
+Section: Tweaks
+Description: 桌面图标随意摆放，仅支持 iOS 17
+Author: iosdump
+Name: FreeGrid
+
+Package: com.iosdump.freegrid
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.iosdump.freegrid_0.0.1_iphoneos-arm64e.deb
+Size: 13756
+MD5sum: 0dcfc05b194e7dd11076b2be1e5b60d0
+SHA1: 8024317c2d6d96798e4dd6c4a0885d1cb9047024
+SHA256: 371982b8adc93bf9432e3f61e651eb377b7c5a7582b6e42a628da54d9d94df99
+Section: Tweaks
+Description: 桌面图标随意摆放，仅支持 iOS 17
+Author: iosdump
+Name: FreeGrid
+
 Package: com.iosdump.hotaiqingli
 Version: 0.0.2
 Architecture: iphoneos-arm
