@@ -5774,6 +5774,44 @@ Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
 Name: Myrtle
 
+Package: com.mikifp.griddys
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 272
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/com.mikifp.griddys_1.1.2_iphoneos-arm64.deb
+Size: 27712
+MD5sum: 8aae089e780dfe4bf891cec1cffb11d1
+SHA1: faeda084168cc90068d1db57ef1efdea2be96919
+SHA256: 2631e631c14f41968777668d0a31507cdadeeec485ea92e69c89d33690503617
+Section: 插件
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy
+
+Package: com.mikifp.griddys
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: mikifp
+Installed-Size: 272
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/com.mikifp.griddys_1.1.2_iphoneos-arm64e.deb
+Size: 26584
+MD5sum: 8d5e1f3aaa51d16a669e6807de5ec40f
+SHA1: a78551b43e91df52655e24261c4f63b6edd777c9
+SHA256: 63cc252d702ed46befe82d4394174baeaf5201a5453f038d867035b13279ea8e
+Section: 插件
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm
