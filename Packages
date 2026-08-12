@@ -286,6 +286,40 @@ Icon: https://apt.002599.xyz/web/icon/cn.zqbb.ccatop.png
 Name: CocoaTop
 Sileodepiction: https://apt.002599.xyz/web/cn.zqbb.ccatop
 
+Package: cn.zqbb.hello.fix.shortcut
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
+Filename: ./debs/cn.zqbb.hello.fix.shortcut_1.0_iphoneos-arm64.deb
+Size: 4480
+MD5sum: a927891c7b5c83c82318c7a488d5835f
+SHA1: 54ebca76238d3459261e7bdfdfcb0ac887075c67
+SHA256: 61846e86e8d19de4ad6993e053e12b839ffed5f6955ebf4d17b99acf68223027
+Section: zqbb Tweaks
+Description: 强兼 iOS16 快捷指令!
+Author: zqbb
+Name: Hello Shortcut 17
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.fix.shortcut
+
+Package: cn.zqbb.hello.fix.shortcut
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
+Filename: ./debs/cn.zqbb.hello.fix.shortcut_1.0_iphoneos-arm64e.deb
+Size: 4438
+MD5sum: 8d2bd4c006915aa8f67a6dd73101320b
+SHA1: 03f8972750767ecbdbba9d5ea71872df821cdb09
+SHA256: 6ea40cbfbb8802a56ea8071815f98de70d13f991036651d265ff93cf20ffda50
+Section: zqbb Tweaks
+Description: 强兼 iOS16 快捷指令!
+Author: zqbb
+Name: Hello Shortcut 17
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.fix.shortcut
+
 Package: cn.zqbb.hello.mnt
 Version: 1.0.0
 Architecture: iphoneos-arm64e
