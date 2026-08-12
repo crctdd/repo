@@ -99,6 +99,54 @@ Description: CocoaTop汉化插件，适配官版和真皮4个修改版
 Author: 来了老弟
 Name: CocoaTop (汉化插件)
 
+Package: cn.llld.cocoatop
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.llld.cocoatop_0.0.3_iphoneos-arm64e.deb
+Size: 19116
+MD5sum: cbb0c26588acca9c3040c1a9bec5cb10
+SHA1: 4eae8264f90acfa7e98169509558a83b24500d3b
+SHA256: f68887575681609ad0f19291f589df84c3d68eac51159fbd5a9200131657adc5
+Section: roothide汉化补丁
+Description: CocoaTop汉化插件，适配官版、真皮4个修改版、真皮Relaxin版。
+Author: 来了老弟
+Name: CocoaTop (汉化插件)
+
+Package: cn.llld.cocoatop
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.llld.cocoatop_0.0.3_iphoneos-arm64.deb
+Size: 19380
+MD5sum: 48ae85dd5eaf422c704e10f92a28ac60
+SHA1: 6c6257c36c798fa72b1d5695ee9f57d0c5f121bc
+SHA256: 72c8d4e15a9cf53f3977e84589472dcf0ca6eb973ca096244e8f48e80f103d10
+Section: rootless汉化补丁
+Description: CocoaTop汉化插件，适配官版、真皮4个修改版、真皮Relaxin版。
+Author: 来了老弟
+Name: CocoaTop (汉化插件)
+
+Package: cn.llld.cocoatop
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.llld.cocoatop_0.0.3_iphoneos-arm.deb
+Size: 17700
+MD5sum: 102dcf7498b6099128610516a12cbb07
+SHA1: 9c946d4f05b450561034afce5daf2cdaaa0bd906
+SHA256: 00a1b64ce9044956ca0e455cc26c61ff5e319b5ab7e9434dd38cd132b022a2fc
+Section: rootful汉化补丁
+Description: CocoaTop汉化插件，适配官版、真皮4个修改版、真皮Relaxin版。
+Author: 来了老弟
+Name: CocoaTop (汉化插件)
+
 Package: cn.llld.kbtool
 Version: 3.5.0-2
 Architecture: iphoneos-arm64
