@@ -2165,6 +2165,114 @@ Tag: supports::roothide
 Author: doimty
 Name: ProMotion 120Hz
 
+Package: com.dvntm.ytlite
+Version: 5.2~b4
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16716
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.2~b4_iphoneos-arm64e.deb
+Size: 6413578
+MD5sum: feca65bef18749b058d00999ee60539f
+SHA1: 5780a44ee7120bcc981d79e1aab4fdefc823bc02
+SHA256: c5f7b1e6e0e5d73363b2e715c0fab48951816a14659ffc2a3a748e2ed5709819
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.dvntm.ytlite
+Version: 5.2~b4
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16732
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.2~b4_iphoneos-arm64.deb
+Size: 6414442
+MD5sum: d1e07293865ddda019ad4b68485155b5
+SHA1: a2144c6c1d2552cccc71733fcf2579671401389f
+SHA256: 8c39e259eae81fb24887fde7af404404b9724221e1c04ded20d2817da7dbee39
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.dvntm.ytlite
+Version: 5.2~b4
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 16732
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.2~b4_iphoneos-arm.deb
+Size: 6411144
+MD5sum: 1a3eda0f51ee334d59f658014bec8bb2
+SHA1: 771dc57a4ecf39e4c54ebe28ca17455f4ca3b6d2
+SHA256: 35ffa64e1b81bd244dabf04662df8d519b6ca57a026fa15204a3e0767b44cbdb
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64e.deb
+Size: 6482952
+MD5sum: c461271b6df7342d518d6cc133edf8a0
+SHA1: 4396245f0b34e8e4789b8717eaf56cedc90a9346
+SHA256: 969ff979217e9ed16f4d76ee551dfbb013c46d7615d3f9f168d2a4e7223fc4b6
+Section: Tweaks
+Description: YouTube Music Premium
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+Name: YTMusicUltimate (Lessica Fork)
+Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64.deb
+Size: 6485848
+MD5sum: 7ca0bba528aaa1fd8ed76cc219dd6977
+SHA1: 816496412067515b29ebfd3a59f6a07e5915ccc2
+SHA256: 57aa82b18b5fc5ba7b8dc976db893774586d284d9e380904078e077869652700
+Section: Tweaks
+Description: YouTube Music Premium
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+Name: YTMusicUltimate (Lessica Fork)
+Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm.deb
+Size: 6483776
+MD5sum: 42ef6d4251ca88da8d53c53dd9f31383
+SHA1: 9ba3b709b50db31de9e8adb591f4137af2206777
+SHA256: ca833cbd358250e83e0b63015d66be735e3951b694b7f7264df54b2351660bc9
+Section: Tweaks
+Description: YouTube Music Premium
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+Name: YTMusicUltimate (Lessica Fork)
+Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+
 Package: com.hang.squidgesturepro-ios17fix
 Version: 1.0.10
 Architecture: iphoneos-arm64e
@@ -5710,6 +5818,42 @@ Description: 系统相机开启全屏拍照，禁用拍照快门声音
 Author: iOSign
 Name: 全屏相机
 
+Package: com.itzzace.ytkace
+Version: 0.8.3
+Architecture: iphoneos-arm64e
+Maintainer: itzzace
+Installed-Size: 2920
+Depends: mobilesubstrate | ellekit, firmware (>= 16.0)
+Filename: ./debs/com.itzzace.ytkace_0.8.3_iphoneos-arm64e.deb
+Size: 840952
+MD5sum: 41b3fb3439a9c046d3728b6f482778dd
+SHA1: 0a08025d2dc444f564c32c800163814d20591df0
+SHA256: c6d6475e686a177c347bc407c83e47578da17f3d461b50fcdd57681f26a7a3f4
+Section: Tweaks
+Homepage: https://github.com/itzzace/ytkace
+Description: Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Tag: role::enduser
+Author: itzzace
+Name: YTKACE
+
+Package: com.itzzace.ytkace
+Version: 0.8.3
+Architecture: iphoneos-arm64
+Maintainer: itzzace
+Installed-Size: 2920
+Depends: mobilesubstrate | ellekit, firmware (>= 16.0)
+Filename: ./debs/com.itzzace.ytkace_0.8.3_iphoneos-arm64.deb
+Size: 841226
+MD5sum: 6f3b659384af2a563baa0327d96a3ed5
+SHA1: fe01335cf68ae0f885f10e1eb6f8e581a8b2af15
+SHA256: d96fcddca57f819cbfb2f863c7138c308ac77f7dbebe1b87a5adc59ea249474f
+Section: Tweaks
+Homepage: https://github.com/itzzace/ytkace
+Description: Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Tag: role::enduser
+Author: itzzace
+Name: YTKACE
+
 Package: com.jontelang.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -5913,6 +6057,58 @@ SHA256: a8cb4dafe69d6a37e6cbaead5e5c56eefaa4e6f5b87708b9825acee57523f0a8
 Section: Tweaks
 Description: Control your text or translate as you wish.
 Author: lclrc(SquidForce)
+Name: Hammer It
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3840
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.1_iphoneos-arm.deb
+Size: 986814
+MD5sum: 54227ed6d73116e44e0ee7a251198fa6
+SHA1: a34d0fbc194c0fd267728b9707b2ec66643b9435
+SHA256: f0423350bc53c1595ffebc79f3c87ca39608f1e993d8b024d340a74bd599b64f
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 977970
+MD5sum: d70699b93e4c1d86aa21a963427ca3cd
+SHA1: 575137e624ea6d038c4ab4dcc7da9a01ee417fc6
+SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64e.deb
+Size: 2753700
+MD5sum: 5357e6377ddea40a0dcef1e64a860ca5
+SHA1: 7038a97ecd64dd6343e3919107e002df2dbf4ea7
+SHA256: 0f566fd0eae88041d0f3e75483d61c54358d47837c7732d73bfd1ec1a404a796
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
 
 Package: com.lclrc.recordanywhere
@@ -7528,6 +7724,24 @@ Description: Pasteboard shortcuts on your keyboard dock!
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX
+
+Package: com.udevs.vedette
+Version: 1.1.10
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 576
+Depends: roothide, preferenceloader, mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/com.udevs.vedette_1.1.10_iphoneos-arm64e.deb
+Size: 82818
+MD5sum: 886b60709339b016331fb53216cf6fba
+SHA1: c1023a40c30e4737035b284ab1b2f31a3d0e3455
+SHA256: d106aa921a09891fc9a322a78924e20d6020b9ffc1d71e979d1c7de83a3fdb48
+Section: Tweaks
+Description: Monitor CPU hogging processes
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vedette
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
+Name: Vedette
 
 Package: com.udevs.vedette
 Version: 1.1.4
