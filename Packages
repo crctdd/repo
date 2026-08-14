@@ -983,6 +983,54 @@ Description: Neutralizes CALayer disableUpdateMask in the render server
 Author: 82flex
 Name: Unseen
 
+Package: com.82flex.unseen
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.3_iphoneos-arm64.deb
+Size: 44278
+MD5sum: 81afb0bb7de168166148487a001f602b
+SHA1: 7ec3c8596baaa83737f11a4a303b8c091e49c141
+SHA256: dcfb950e9af707b9aa884193042b891dfb82e802d0c0406ab8c132b2adff393a
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.3_iphoneos-arm.deb
+Size: 44170
+MD5sum: 12ddef79a4e1c1ec40349f8d9ec36508
+SHA1: e8318a8ded59e1fa6dc412aa081d976e1b12b13f
+SHA256: 9b20b74abc06e24bffc21e9d1c3e677de464125bc5c66f9adec0d5fe4f9448e5
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.3_iphoneos-arm64e.deb
+Size: 44182
+MD5sum: f270516aa4e8553ab795b3f96c357367
+SHA1: 170cf2b1dab28da395be12945ecfb966a4854e32
+SHA256: a8b5c55e837e57d9f29ed894fc5ac96d0972943049cedfd5ebf6c833a82fbfcb
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -2116,6 +2164,22 @@ Description: Force global 120Hz ProMotion, bypass the 80Hz system cap. iPhone 13
 Tag: supports::roothide
 Author: doimty
 Name: ProMotion 120Hz
+
+Package: com.hang.squidgesturepro-ios17fix
+Version: 1.0.10
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
+Filename: ./debs/com.hang.squidgesturepro-ios17fix_1.0.10_iphoneos-arm64e.deb
+Size: 11276
+MD5sum: 3ef0db9c0d28bb4a7a5403410ee50acf
+SHA1: 8a1c749d55ec3af3ed9299dcb508f8f2743472c3
+SHA256: a8726eabfd1a5428059fd5b28b6ac454a1700c129e1f1398c07d15c862ff4670
+Section: Tweaks
+Description: 修复 SquidGesturePro 在 iOS 17 启动快捷指令时导致的安全模式。
+Author: 航
+Name: 乌贼手势 iOS 17 补丁
 
 Package: com.helloms.plist
 Version: 0.0.1
