@@ -8394,6 +8394,52 @@ Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: NewTerm 3 Beta
 Support: https://hashbang.productions/support/
 
+Package: xyz.cypwn.ersatz
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Skitty
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xyz.cypwn.ersatz_1.0.1_iphoneos-arm64e.deb
+Size: 61814
+MD5sum: d2b5e9b4777ddc5b4c4dce2c1fa22b07
+SHA1: 7bece7958e95e954eb6f11bb4eb321c8f306b1df
+SHA256: 9f7b640d52cdb87d37fc44fbf11788183c31a95b00b4b115325ba4056b8ce552
+Section: Tweaks
+Description: Replace any text, system-wide! 替换系统任何文字
+Author: Skitty
+Name: Ersatz
+
+Package: xyz.cypwn.ersatz
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xyz.cypwn.ersatz_1.0.1_iphoneos-arm.deb
+Size: 47784
+MD5sum: f2c9c1ddc016256318ed49299b8f29d2
+SHA1: 087de9642dc6de26165287d2a2ee714b92fdc8a8
+SHA256: 2cb9eddd5e3a198f56aa22abf23a288e25d1a0b5eb343b3f9fb635d522b00700
+Section: Tweaks
+Description: Replace any text, system-wide! 替换系统任何文字
+Author: Skitty
+Name: Ersatz
+
+Package: xyz.cypwn.ersatz
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xyz.cypwn.ersatz_1.0.1_iphoneos-arm64.deb
+Size: 49016
+MD5sum: 9c194d7e339ebcb6bd7cd9f3759b64a4
+SHA1: 4f80e5734d14fa1ffe5ea58c619997e9a97cbe74
+SHA256: aee57a288028751de452f8856b05b5a828fa5504801922e12e12162c63b9e0e6
+Section: Tweaks
+Description: Replace any text, system-wide! 替换系统任何文字
+Author: Skitty
+Name: Ersatz
+
 Package: xyz.cypwn.jetsamunlimited
 Version: 1.0
 Architecture: iphoneos-arm64e
