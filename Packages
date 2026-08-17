@@ -437,6 +437,40 @@ Icon: https://apt.002599.xyz/web/icon/cn.zqbb.ccatop.png
 Name: CocoaTop
 Sileodepiction: https://apt.002599.xyz/web/cn.zqbb.ccatop
 
+Package: cn.zqbb.hello.diagnosticdata
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.zqbb.hello.diagnosticdata_1.2_iphoneos-arm64e.deb
+Size: 35456
+MD5sum: 2c3c878af3856a25939ab963d67c9d50
+SHA1: 14f9f8e3fd96e467f85272395067bcc1f230ffa2
+SHA256: 7007ffd8e7334944f7d67daf24d2a16b0a660d47baed1b66105bf101b39e2cb9
+Section: Tweaks
+Description: 清理分析数据!
+Author: zqbb
+Name: Hello DiagnosticData
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.diagnosticdata
+
+Package: cn.zqbb.hello.diagnosticdata
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.zqbb.hello.diagnosticdata_1.2_iphoneos-arm64.deb
+Size: 36658
+MD5sum: 89987b47b3f68252cfecf28372438ddc
+SHA1: f02a71e685e54d03c0f8412897760bd895786c46
+SHA256: 71cc962227d23557e07587d33e41d660bd1df6b78923858ce39d7a4a8a40222b
+Section: Tweaks
+Description: 清理分析数据!
+Author: zqbb
+Name: Hello DiagnosticData
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.diagnosticdata
+
 Package: cn.zqbb.hello.fix.shortcut
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2286,6 +2320,24 @@ SHA1: 8a1c749d55ec3af3ed9299dcb508f8f2743472c3
 SHA256: a8726eabfd1a5428059fd5b28b6ac454a1700c129e1f1398c07d15c862ff4670
 Section: Tweaks
 Description: 修复 SquidGesturePro 在 iOS 17 启动快捷指令时导致的安全模式。
+Author: 航
+Name: 乌贼手势 iOS 17 补丁
+
+Package: com.hang.squidgesturepro-ios17fix
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
+Conflicts: com.codex.squidgesture17fix
+Filename: ./debs/com.hang.squidgesturepro-ios17fix_2.3_iphoneos-arm64e.deb
+Size: 14942
+MD5sum: 3c941e0431c92d96b9efee635715cc84
+SHA1: 1ec83df36751496447dab25cdafc7719d9db30d6
+SHA256: ecb5cb35b8fa79f0cc957c68208d8239fdca79143b227e275589cc62594d99cd
+Section: Tweaks
+Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
+ 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
 Author: 航
 Name: 乌贼手势 iOS 17 补丁
 
@@ -6443,6 +6495,40 @@ Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
 Name: Myrtle
 
+Package: com.m4fn3.myrtle
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: mafu
+Installed-Size: 15408
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.4.1_iphoneos-arm64e.deb
+Size: 4629146
+MD5sum: 0934fd3f1314d3addc9a95f97088e978
+SHA1: 3696b21fa9ec5998d6e567da457f95caa4eda04b
+SHA256: e2fe7c38094f4ddb1167e8392d5261fdbf7043d2b6fb681b1c64c3f1efb3d70a
+Section: Tweaks
+Description: Ultimate control over your device through multitasking.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+Name: Myrtle
+
+Package: com.m4fn3.myrtle
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: mafu
+Installed-Size: 15424
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.4.1_iphoneos-arm64.deb
+Size: 4637048
+MD5sum: 2c856e63b54eb1e414c2bc8ccabbdb3b
+SHA1: 85ef41fc26ed769ca5cd367de747998f4baac518
+SHA256: 48ae9c43bde1d6d48ec7ad45cbe8f5ba051520ded09e1057ce729c370a275ad7
+Section: Tweaks
+Description: Ultimate control over your device through multitasking.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+Name: Myrtle
+
 Package: com.mikifp.griddys
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -6943,6 +7029,24 @@ Section: Tweaks
 Description: 最终版Stheno分屏 (免费)
 Author: Crassna
 Name: Stheno (最终版)
+
+Package: com.opa334.crane
+Version: 1.3.17-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.opa334.crane_1.3.17-2_iphoneos-arm64e.deb
+Size: 1560700
+MD5sum: da5bc6bc3e9a4e6a2bbcc9a1d9e1410c
+SHA1: 0f185c6a5acefbaeb12978b688a247f98bd5e026
+SHA256: e618d72344a765b1650b43ed6086a95b9000bae746bcb5820dd4ecdd38dad4b8
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Name: Crane
 
 Package: com.opa334.trollstorelite
 Version: 1.0.3
