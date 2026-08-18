@@ -2098,23 +2098,6 @@ Author: doimty
 Name: ProMotion 120Hz
 
 Package: com.doimty.promotion
-Version: 1.0.11
-Architecture: iphoneos-arm64
-Maintainer: doimty
-Installed-Size: 108
-Depends: mobilesubstrate
-Filename: ./debs/com.doimty.promotion_1.0.11_iphoneos-arm64.deb
-Size: 16710
-MD5sum: 25325a3c9a3b24dead546d42869d0b79
-SHA1: 5694e3949b3c33f2cfc809c24987b438d7abbb7f
-SHA256: a0d8465cf376eccfd60f39eaba986b89325d082e53fac4da9dae24fed8db5e7d
-Section: Tweaks
-Description: Force global 120Hz ProMotion on iPhone 13 Pro+. Bypasses the 80Hz system cap and maintains 120Hz in apps that block tweak injection via a persistent keepalive DisplayLink.
-Tag: supports::roothide
-Author: doimty
-Name: ProMotion 120Hz
-
-Package: com.doimty.promotion
 Version: 1.0.6
 Architecture: iphoneos-arm64e
 Maintainer: doimty
@@ -5309,6 +5292,54 @@ Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有�
 Author: iosdump
 Name: SHELLX
 
+Package: com.iosdump.shellx
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 2328
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.iosdump.shellx_2.0.1_iphoneos-arm64e.deb
+Size: 777320
+MD5sum: 1af881ede9bad5ed7575e62bbbf69dee
+SHA1: f2e54beb179f6ffd0a26011bd8cdc6623c82a038
+SHA256: 4b04020b87890bf22b80d38c3bf0c72be83b851a798f33cb75082255f1cc5391
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 2348
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.iosdump.shellx_2.0.1_iphoneos-arm64.deb
+Size: 779820
+MD5sum: a870d8d8743ecee207f81eec6388e4a5
+SHA1: 70969a453404f3ab5a1e661416379a0e7dd5a7ca
+SHA256: 19f80bce31ac7dcc0a0f68a7ae56bb1c5f241c20d160eaa8efa1a05c940f7a9a
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 2364
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.iosdump.shellx_2.0.1_iphoneos-arm.deb
+Size: 780354
+MD5sum: 79376f1444601ce68959b7135d74bb94
+SHA1: 31b8ac3f5354fccf9c1391169cdebc2b4074c87a
+SHA256: 442caf0fd0143fe685d6fb2612ae94672afb6d95cfe8cc66fce50bf0dedbf94b
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
 Package: com.iosdump.trollcmtweak
 Version: 1.1.4
 Architecture: iphoneos-arm
@@ -8427,6 +8458,52 @@ Author: Domo <domo@rambler.ru>
 Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
 Name: CocoaTop64
 
+Package: wiki.qaq.ighostty
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 18028
+Depends: firmware (>= 15.0), uikittools
+Filename: ./debs/wiki.qaq.ighostty_0.1.0_iphoneos-arm64e.deb
+Size: 8031132
+MD5sum: ba9193aee731674b5f9d628388c7edbc
+SHA1: e612448f444265d93fc6b13d0893cd51b4441a85
+SHA256: 7a1347be75a2fc8ebf4ad9dc47a5c40ebb4fb906e6fd3d3082a05e124a20799a
+Section: Utilities
+Priority: optional
+Description: Ghostty-powered terminal for jailbroken iOS
+ Terminal emulator built on libghostty's terminal core with a host-managed
+ I/O backend. Packaged for both roothide and rootless bootstraps; the
+ architecture field says which build this is.
+ .
+ Shells are spawned by the bundled ighosttyd daemon and survive app
+ relaunches; SSH transport is planned on the same transport interface.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Name: iGhostty
+
+Package: wiki.qaq.ighostty
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 18028
+Depends: firmware (>= 15.0), uikittools
+Filename: ./debs/wiki.qaq.ighostty_0.1.0_iphoneos-arm64.deb
+Size: 8033920
+MD5sum: 3d375d83da4b2fdec0122108e350b690
+SHA1: 6cadc7698fe6f2e3f4c76baa290e6c1d210ee409
+SHA256: 94e811e0d30a143ba751c2dcc86c1b2f1c86b4aa2327082f84194a9db25021b6
+Section: Utilities
+Priority: optional
+Description: Ghostty-powered terminal for jailbroken iOS
+ Terminal emulator built on libghostty's terminal core with a host-managed
+ I/O backend. Packaged for both roothide and rootless bootstraps; the
+ architecture field says which build this is.
+ .
+ Shells are spawned by the bundled ighosttyd daemon and survive app
+ relaunches; SSH transport is planned on the same transport interface.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Name: iGhostty
+
 Package: wiki.qaq.inspector
 Version: 0.1.3
 Architecture: iphoneos-arm64e
@@ -8441,6 +8518,84 @@ SHA256: 1caa734a1a4d751f49f4fbfdcc6b25459aa9c80d5c603366b2a37db21ec45634
 Section: Utilities
 Priority: optional
 Description: Live process inspector for roothide
+ Inspector samples every process on the device once a second and shows what the system is really doing.
+ .
+ ### Process list
+ .
+ - CPU share, memory footprint, thread count, PID, and owning user, refreshed every second
+ - Search by name or PID; sort by CPU, memory, PID, or name
+ - Filter down to system (root), user (mobile), or app processes
+ - Pause live updates to hold a moment still
+ .
+ ### Per-process detail
+ .
+ - Resource use: CPU time, memory footprint, resident and virtual size, disk and network I/O
+ - Executable path, arguments, sandbox status, and app bundle metadata
+ - Separate screens for threads, open files and sockets, Mach ports, and loaded modules — each with its own search, sort order, and share action
+ - Export the complete detail set as a property list for later analysis
+ - Ask a process to quit (SIGTERM), or force quit it (SIGKILL)
+ .
+ ### Command line
+ .
+ `cocoainspector` answers the same queries for scripting — `list`, `inspect`, `details`, `watch`, `signal`, and `self-test` — served by `cocoainspectord`, an on-demand LaunchDaemon that holds one session at a time.
+ .
+ Localized into English, Simplified Chinese, Japanese, Russian, German, French, Spanish, and Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Name: Inspector
+
+Package: wiki.qaq.inspector
+Version: 0.1.4
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 7456
+Depends: firmware (>= 17.0), uikittools, launchctl
+Filename: ./debs/wiki.qaq.inspector_0.1.4_iphoneos-arm64.deb
+Size: 2666556
+MD5sum: b6cc404bc8791507591c0722485ababf
+SHA1: b66d52d1cfefd099696b8601f09bb079e3e664b2
+SHA256: 8c2e8f7daee7a1bdc0d74c12699fcd4dc6b12fce35176ec4f6c6f1e4f8ddabf7
+Section: Utilities
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ Inspector samples every process on the device once a second and shows what the system is really doing.
+ .
+ ### Process list
+ .
+ - CPU share, memory footprint, thread count, PID, and owning user, refreshed every second
+ - Search by name or PID; sort by CPU, memory, PID, or name
+ - Filter down to system (root), user (mobile), or app processes
+ - Pause live updates to hold a moment still
+ .
+ ### Per-process detail
+ .
+ - Resource use: CPU time, memory footprint, resident and virtual size, disk and network I/O
+ - Executable path, arguments, sandbox status, and app bundle metadata
+ - Separate screens for threads, open files and sockets, Mach ports, and loaded modules — each with its own search, sort order, and share action
+ - Export the complete detail set as a property list for later analysis
+ - Ask a process to quit (SIGTERM), or force quit it (SIGKILL)
+ .
+ ### Command line
+ .
+ `cocoainspector` answers the same queries for scripting — `list`, `inspect`, `details`, `watch`, `signal`, and `self-test` — served by `cocoainspectord`, an on-demand LaunchDaemon that holds one session at a time.
+ .
+ Localized into English, Simplified Chinese, Japanese, Russian, German, French, Spanish, and Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Name: Inspector
+
+Package: wiki.qaq.inspector
+Version: 0.1.4
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 7456
+Depends: firmware (>= 17.0), uikittools, launchctl
+Filename: ./debs/wiki.qaq.inspector_0.1.4_iphoneos-arm64e.deb
+Size: 2665672
+MD5sum: ea41c3f4437d54ec0a312ed5a2748e72
+SHA1: f71668843a5e5d0e0fc60769cb112dfbf9a62a74
+SHA256: ae6b64f0fa525c2e5808b3bdd0fe18f2ae6bf207e97324c3b7d3f47e36b9bad1
+Section: Utilities
+Priority: optional
+Description: Live process inspector for roothide jailbreaks
  Inspector samples every process on the device once a second and shows what the system is really doing.
  .
  ### Process list
