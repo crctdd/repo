@@ -1014,6 +1014,54 @@ Description: Neutralizes CALayer disableUpdateMask in the render server
 Author: 82flex
 Name: Unseen
 
+Package: com.82flex.unseen
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 512
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.4_iphoneos-arm64e.deb
+Size: 52314
+MD5sum: 59896424c111191eb3a61b128830394a
+SHA1: 380f7f67fbf8e3e45b6d2a2cb0368f687fe792d5
+SHA256: 052b8cb9d75665db6f8de5475a3d2412adc0a16bb0629294c7cd1c0fadc77979
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: 82flex
+Installed-Size: 528
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.4_iphoneos-arm64.deb
+Size: 52128
+MD5sum: 1aa7bb748df61e91e6ddef445c749923
+SHA1: 3bf911988a820d010444bd68ef6cc875509dcf4d
+SHA256: efa30b91b8831540dd88bfc618404331d6035915d56325060c79b66938a3c47b
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: 82flex
+Installed-Size: 512
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.4_iphoneos-arm.deb
+Size: 52266
+MD5sum: c065d5610671205ead1e1a3dbc224bab
+SHA1: 2310da6393bc5fd4343ed79dc3c8e0f210300033
+SHA256: 845d58a8de3455bb717196cd7385fab9fe10f75d57cb175af0540375944ce52a
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.2
 Architecture: iphoneos-arm
