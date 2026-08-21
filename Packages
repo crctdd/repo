@@ -1062,6 +1062,54 @@ Description: Neutralizes CALayer disableUpdateMask in the render server
 Author: 82flex
 Name: Unseen
 
+Package: com.82flex.unseen
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.5_iphoneos-arm.deb
+Size: 49816
+MD5sum: 3e726f31ca67f0571b341612e7ae9137
+SHA1: 7dc48057c5a0b445727a56f5f77aa86f13698f4c
+SHA256: 6c4aa0ca5a6f44a5ccc1c41d303f604edee80e1bf860abd8a06e95049a10c57d
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.5_iphoneos-arm64.deb
+Size: 49876
+MD5sum: 2905eaa7b25d9dbad0fd7b4b6e301405
+SHA1: ded053762c6d76ce461ca87f448620faa8c65587
+SHA256: 74f8a1df69bf25ef3a733d4b783ceeb657b61aed9872790f5e2af72f17139ebb
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.unseen_0.0.5_iphoneos-arm64e.deb
+Size: 49798
+MD5sum: 616faaf2cc2b4e60939ffc5d0e67a569
+SHA1: 576b6c576a4e795aa6b4d8705588d2cfa8f5461c
+SHA256: 883d4605ea041bc20a0770c0ed20575991cdc57cd25a38143720ba270167d28c
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -5479,6 +5527,57 @@ Size: 887402
 MD5sum: d8248c3c2e5459b88bd6de7c0c39bc3a
 SHA1: 6b3d6d3056b7f1856d7fc43cbfc2332ddf53d212
 SHA256: 75ba0a55f3422b10d72911e4e1b057239c2333dbce4a9d21f99a6aef24a58768
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.2.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 4180
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_2.2.1_iphoneos-arm64e.deb
+Size: 988404
+MD5sum: 1680027510ff039fb47f025dd8635856
+SHA1: fc7c7be15722fa0e17d734652e450384ce72f868
+SHA256: 65b02306ded9d80a97b508ad95a7c2bc787aed5de281790165521349eb8a0f04
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.2.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 4180
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_2.2.1_iphoneos-arm64.deb
+Size: 989696
+MD5sum: b407b22137063ae3e992319c7b93dfe6
+SHA1: 8aaf53310ba6dcd024319e010d33c98cacaf3580
+SHA256: 52cb0d014deca98b8f6b6000ccf5560b2fdca2461c975f2db3477edbcdf7b76d
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 4180
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_2.2.1_iphoneos-arm.deb
+Size: 989476
+MD5sum: ced3275882b568b934c516c55a146663
+SHA1: a2f8964aa42e152179177c760a24186ab9dac47d
+SHA256: e3dbac4544b7c8926001e2592763dd5b774d2f96ae8c5c4ae9b8e7e4440c5d73
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
 Author: iosdump
