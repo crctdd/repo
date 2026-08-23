@@ -561,44 +561,6 @@ Author: zqbb
 Name: Hello 3Q
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
 
-Package: cn.zqbb.stopautolaunchapps
-Version: 2.0
-Architecture: iphoneos-arm64e
-Maintainer: zqbb
-Installed-Size: 828
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
-Conflicts: zp.stopautolaunchapps
-Filename: ./debs/cn.zqbb.stopautolaunchapps_2.0_iphoneos-arm64e.deb
-Size: 175362
-MD5sum: 46ca2afbfb8b8e43b79490490b0529b8
-SHA1: 9a41028ccb1d33b2c7fe723c4294a253176c214f
-SHA256: e4a240345563b125106582822c94bd431c0b054fe6b396e8d366b2a24caa452e
-Section: zqbb Tweaks
-Description: 别在后台热加载app咯!
- - 优点:节约内存,少杀后台.
-Author: zqbb
-Name: Hello 3Q
-Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
-
-Package: cn.zqbb.stopautolaunchapps
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 892
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
-Conflicts: zp.stopautolaunchapps
-Filename: ./debs/cn.zqbb.stopautolaunchapps_2.0_iphoneos-arm64.deb
-Size: 188414
-MD5sum: d1a9f68b7eb29ac58f508d3585a2eb9f
-SHA1: dd1d5b3077b9741ecdab1b96c5bde83be7851e40
-SHA256: 9e0f87fd4929fbc8c810c3b4a60930699f5b3012807dfde4a453b14be94c9070
-Section: zqbb Tweaks
-Description: 别在后台热加载app咯!
- - 优点:节约内存,少杀后台.
-Author: zqbb
-Name: Hello 3Q
-Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
-
 Package: codes.aurora.kayoko
 Version: 3.3.9-8
 Architecture: iphoneos-arm64
