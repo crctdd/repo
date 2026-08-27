@@ -1734,6 +1734,38 @@ Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开�
 Author: Charlie Leung
 Name: TrollOpen
 
+Package: com.crctdd.gifmake
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 168
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.crctdd.gifmake_0.0.1_iphoneos-arm64.deb
+Size: 8598
+MD5sum: 1977c8b1a7d33afa3d448497ed7c3947
+SHA1: a8de7f72712d75b56c905aa57c3e6881e21ab721
+SHA256: 40263f569a1530b55a75a5588f8ba6f8bc6a29495cfae5258ccc5be8239f9478
+Section: Utilities
+Description: 终端cd 图片目录，回车，gifmake，回车，可获得一张.gif。输入fps 30，就是30帧。输入speed 1.5，就是动画速度1.5倍。
+Author: crctdd
+Name: GIFMake
+
+Package: com.crctdd.gifmake
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 168
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.crctdd.gifmake_0.0.1_iphoneos-arm64e.deb
+Size: 8538
+MD5sum: c8285b1298adb632f8639bdf3ba4457e
+SHA1: f389eaf7816d7c6758f096dcbb831d7e0260280c
+SHA256: e7156f4eca08a143aee64bd6a2bb512f63a1dcba55e2fd5c4b17b8d482415b36
+Section: Utilities
+Description: 终端cd 图片目录，回车，gifmake，回车，可获得一张.gif。输入fps 30，就是30帧。输入speed 1.5，就是动画速度1.5倍。
+Author: crctdd
+Name: GIFMake
+
 Package: com.crctdd.surgectl
 Version: 0.0.1
 Architecture: iphoneos-arm64e
