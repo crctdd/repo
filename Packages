@@ -401,6 +401,40 @@ Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-ll
 Name: STTool
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
 
+Package: cn.llld.urljg
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1072
+Depends: firmware (>= 14.0), ellekit | mobilesubstrate
+Filename: ./debs/cn.llld.urljg_1.1.0_iphoneos-arm64.deb
+Size: 672176
+MD5sum: 6870617f8e140dc27d5d9d24bb04e2a5
+SHA1: ba1523348415c920157f93bf0fb563637ac61286
+SHA256: aa6870ce9d69ccfd22f01d1d607fd7b6895d8f4f4d912567aa7b1138cefb99a9
+Section: System
+Description: URL管家 — 统一接管本机 URL Scheme（隐藏 / 重定向），支持单应用或者全局，也可防范某些应用检测某东东
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Name: URL管家
+
+Package: cn.llld.urljg.roothide
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 1104
+Depends: firmware (>= 14.0), roothide (>= 0.0.1), ellekit | mobilesubstrate
+Filename: ./debs/cn.llld.urljg.roothide_1.1.0_iphoneos-arm64e.deb
+Size: 676414
+MD5sum: 34e37c6a76c9f22f44b46b5469b884bd
+SHA1: 95e0d30d3ee44100f47cbdf64f9b8edd78369121
+SHA256: 10b52cb0a42b0ee51f84707fc56414bed4d6d4fe40aacca00eb20c6e99089199
+Section: RootHide
+Description: URL管家（RootHide 版）— 统一接管本机 URL Scheme（隐藏 / 重定向），支持单应用或者全局，也可防范某些应用检测某东东
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Name: URL管家-隐根
+
 Package: cn.zqbb.ccatop
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -1757,6 +1791,38 @@ Description: CPU Battery Saver Battery Connected State Not Change Remove Monitor
 Tag: supports::roothide
 Author: doimty
 Name: Fix Repair System Power
+
+Package: com.doimty.nrmanager
+Version: 1.6.6
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 1688
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.doimty.nrmanager_1.6.6_iphoneos-arm64.deb
+Size: 253686
+MD5sum: d80ff0aa1c77379c0f8bdc41fd4dac0f
+SHA1: 6819e010a658d7556af0769b1f5315014cebc71a
+SHA256: 5e405d26f64d49eb147830e60890e6ae979171334eca39bc8e855d02f0b0e6ee
+Section: Control Center (Modules)
+Description: Select NR bands and view live serving status in Control Center
+Author: doimty
+Name: NR Manager
+
+Package: com.doimty.nrmanager
+Version: 1.6.6
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 1688
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.doimty.nrmanager_1.6.6_iphoneos-arm64e.deb
+Size: 273124
+MD5sum: 813009a5ae2506ed43b994c8053e8638
+SHA1: b3e86717a2f18777e77ba98c75c98ca3f19849c0
+SHA256: 3ed5ed82df233c0ba63bcb1492351224c4a450aebd6a33964a06208e4a25f488
+Section: Control Center (Modules)
+Description: Select NR bands and view live serving status in Control Center
+Author: doimty
+Name: NR Manager
 
 Package: com.doimty.promotion
 Version: 1.0.11
