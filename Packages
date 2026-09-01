@@ -2034,40 +2034,6 @@ Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/
 Name: YTMusicUltimate (Lessica Fork)
 Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
 
-Package: com.hang.squidgesturepro-ios17fix
-Version: 1.0.10
-Architecture: iphoneos-arm64e
-Maintainer: 航
-Installed-Size: 92
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
-Filename: ./debs/com.hang.squidgesturepro-ios17fix_1.0.10_iphoneos-arm64e.deb
-Size: 11276
-MD5sum: 3ef0db9c0d28bb4a7a5403410ee50acf
-SHA1: 8a1c749d55ec3af3ed9299dcb508f8f2743472c3
-SHA256: a8726eabfd1a5428059fd5b28b6ac454a1700c129e1f1398c07d15c862ff4670
-Section: Tweaks
-Description: 修复 SquidGesturePro 在 iOS 17 启动快捷指令时导致的安全模式。
-Author: 航
-Name: 乌贼手势 iOS 17 补丁
-
-Package: com.hang.squidgesturepro-ios17fix
-Version: 2.3
-Architecture: iphoneos-arm64e
-Maintainer: 航
-Installed-Size: 92
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
-Conflicts: com.codex.squidgesture17fix
-Filename: ./debs/com.hang.squidgesturepro-ios17fix_2.3_iphoneos-arm64e.deb
-Size: 14942
-MD5sum: 3c941e0431c92d96b9efee635715cc84
-SHA1: 1ec83df36751496447dab25cdafc7719d9db30d6
-SHA256: ecb5cb35b8fa79f0cc957c68208d8239fdca79143b227e275589cc62594d99cd
-Section: Tweaks
-Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
- 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
-Author: 航
-Name: 乌贼手势 iOS 17 补丁
-
 Package: com.huami.ChoicyConfigPin
 Version: 1.0-2
 Architecture: iphoneos-arm64
