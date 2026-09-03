@@ -7272,6 +7272,38 @@ Description: TrollStore for RootHide jailbroken iOS
 Author: opa334
 Name: TrollStore Lite (RootHide)
 
+Package: com.opa334.trollstorelite
+Version: 2.1.1-260903
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 8140
+Depends: ldid
+Filename: ./debs/com.opa334.trollstorelite_2.1.1-260903_iphoneos-arm64e.deb
+Size: 2217136
+MD5sum: b3487e2edae7ef2af7de289d154046f4
+SHA1: 4c91ecace914a1782e916f6c6842f9899d7f43f9
+SHA256: f66e8caf21909eebb84ad7dd6340a666756d1eb15bb8938704df78e3760b0022
+Section: Applications
+Description: TrollStore for RootHide jailbroken iOS
+Author: opa334
+Name: TrollStore Lite (RootHide)
+
+Package: com.opa334.trollstorelite
+Version: 2.1.1-260903
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 8140
+Depends: ldid
+Filename: ./debs/com.opa334.trollstorelite_2.1.1-260903_iphoneos-arm64.deb
+Size: 2217716
+MD5sum: 3423268c5da0306a4f4ece69e3a33cd1
+SHA1: 1385d6a0f943a838e9bd3bf36e2db037bb6e7d67
+SHA256: 26f28629e2d461c5045eb735b6487a5d3d15cb122ac672a28f0f67b7ff2190c3
+Section: Applications
+Description: TrollStore for jailbroken iOS
+Author: opa334
+Name: TrollStore Lite
+
 Package: com.ps.recordpauses
 Version: 2.0.3
 Architecture: iphoneos-arm64e
