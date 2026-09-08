@@ -1818,6 +1818,23 @@ Tag: supports::roothide
 Author: doimty
 Name: ProMotion 120Hz
 
+Package: com.doimty.urlschemeguard
+Version: 0.5.6
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 1016
+Depends: firmware (>= 14.0), roothide (>= 0.0.1), ellekit | mobilesubstrate, preferenceloader
+Filename: ./debs/com.doimty.urlschemeguard_0.5.6_iphoneos-arm64e.deb
+Size: 146816
+MD5sum: 03bf854a6ff3f90aa2d90db8f34d92fa
+SHA1: c303be13e5755cd17599bf2dfbca8b14537e0691
+SHA256: 797511479b113b6ad1e345a713d3aa02ffbb2fc54b0aa963ad351fd5a436fa77
+Section: Tweaks
+Description: Rule-driven URL scheme interception core. Blocks or redirects URL schemes globally or per calling app, enforced in both the calling app and the Launch Services daemon (lsd). Includes a Settings pane with installed-app and URL-scheme discovery.
+Tag: purpose::uikit, compatible::ios14
+Author: doimty
+Name: URL Scheme Guard Core
+
 Package: com.dvntm.ytlite
 Version: 5.2~b4
 Architecture: iphoneos-arm
@@ -8729,6 +8746,22 @@ Description: 针对任意 App 单独配置虚拟权限，防止隐私被过度�
   其他设备请自行测试
 Author: Junhong
 Name: 虚拟权限 · Fake Permission (Roothide)
+
+Package: me.nixuge.networkmanager
+Version: 1.4.3
+Architecture: iphoneos-arm64e
+Maintainer: Nixuge, 灰灰
+Installed-Size: 396
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/me.nixuge.networkmanager_1.4.3_iphoneos-arm64e.deb
+Size: 35522
+MD5sum: c7e2c01c62b9d84c624d8a4b484d0fac
+SHA1: 345053689fe1f6733ad9656c4b3da97aff7a03e3
+SHA256: 2ac00177545f169578d4d030e2577005c20c0d7454a4684321a326529198d516
+Section: Control Center (Modules)
+Description: Force 2G/3G/4G/5G connection from the Control Center (Roothide build)
+Author: NoisyFlake, Nixuge, 灰灰
+Name: NetworkManagerReborn Roothide
 
 Package: roothide.patches.filza
 Version: 0.5-4
