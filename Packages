@@ -922,6 +922,39 @@ Description: Mount Font files from Filza
 Author: ash
 Name: Filza Font Mount Script
 
+Package: com.be-huge.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64.deb
+Size: 660352
+MD5sum: e91f85d6bdbbc1935353dd63d6500c1e
+SHA1: 28efee7dd0ca595d676e8291e2fdee8e2c0cab7d
+SHA256: 3b0aeb4f465e13dc077ca06c5c04ee5437b3a1cbbd048b3fede84183bb40fa71
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3360
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64e.deb
+Size: 1771730
+MD5sum: cba48e5bea1e58f68bdb28b3b73e4c23
+SHA1: 0036b0f68922138498230c48df959572383a651a
+SHA256: 7ebdbc67e7d398d824996928358c051d29eb5085e61865b96d23b52dde23fab4
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
 Package: com.be-huge.insulation
 Version: 0.0.13
 Architecture: iphoneos-arm64e
@@ -4950,6 +4983,57 @@ Size: 3782408
 MD5sum: 795238a17a46617d56036b08125ae4bc
 SHA1: 38d98c299ab5a991fba68f2ac59553e43659a47c
 SHA256: 8dbe168cc61bbd1288a317366ef29bac608940960a9d3c8e220f9636883458b7
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 10.1.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 19496
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_10.1.0_iphoneos-arm64.deb
+Size: 4285366
+MD5sum: 1ffa55b2a7604ce74ee0c94c38161bf7
+SHA1: 0f2a947f33a01d665bf18e9658498718162327f7
+SHA256: 7a569ceedf388abb8b7e3f4da06abe1520688c61bc128a04fec304cd5de77b33
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 10.1.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 19496
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_10.1.0_iphoneos-arm.deb
+Size: 4284738
+MD5sum: 5f8c130630962ab57c343eafdb2890a0
+SHA1: c1651f65a1e7cefacb33bd88304ef27bc23045e2
+SHA256: 7b0f32294fb4ad94106864d5acdfe17c9bf9f8365c7f6aa3e256fe5327595251
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 10.1.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 19492
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_10.1.0_iphoneos-arm64e.deb
+Size: 4279182
+MD5sum: 5d4cbb577120915643e27806a5d87da4
+SHA1: 94a548e0f9fec346a61d22a28bb96a1e8d5a8362
+SHA256: 1aaebbe94938ce18a3c181b8ffccfb2179dc5620705ab6375f5d1d854aafc92b
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
 Author: iosdump
