@@ -1564,6 +1564,38 @@ Description: 让小白条缩短的轻量插件
 Author: crctdd
 Name: ShortBar
 
+Package: com.crctdd.shorbar
+Version: 0.0.7
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.shorbar_0.0.7_iphoneos-arm64e.deb
+Size: 35908
+MD5sum: 02b89ccdfd34045cc979c7787d5f29f0
+SHA1: 444f8a8c324045f06f3736241f5bbf72bc459e13
+SHA256: fd195b9b081baa567c012574d4bf230d46bbc2a7670272e674e9c27130569069
+Section: Tweaks
+Description: 让小白条缩短的轻量插件 (支持iOS 15-17)
+Author: crctdd
+Name: ShortBar
+
+Package: com.crctdd.shorbar
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.shorbar_0.0.7_iphoneos-arm64.deb
+Size: 35980
+MD5sum: d4ab9a4cb2ad368b066fe4c50c869176
+SHA1: 05e676194cbdad761b994db608b63afc4e214c81
+SHA256: 0a5b50e25dda9f12101e5214fe7d88e1eb8709ea8543ab42d3fea9ff4579a948
+Section: Tweaks
+Description: 让小白条缩短的轻量插件 (支持iOS 15-17)
+Author: crctdd
+Name: ShortBar
+
 Package: com.crctdd.stayalivelite
 Version: 0.1.3
 Architecture: iphoneos-arm64e
