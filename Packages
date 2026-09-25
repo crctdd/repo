@@ -1532,6 +1532,38 @@ Description: 终端cd 图片目录，回车，gifmake，回车，可获得一张
 Author: crctdd
 Name: GIFMake
 
+Package: com.crctdd.mobileslideshowhook
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.mobileslideshowhook_0.0.1_iphoneos-arm64e.deb
+Size: 22120
+MD5sum: b14e048fa700a783b984245225d36e3f
+SHA1: b6d455715889a4fa19384336b715a1d87224381e
+SHA256: 7ff26e1f7a610883e4da2b04e32c4314a45458f3c53293221165396a60649710
+Section: Tweaks
+Description: 为系统相册视频播放界面增加视频进度条 (支持iOS 15-17)
+Author: crctdd
+Name: 系统相册视频进度条
+
+Package: com.crctdd.mobileslideshowhook
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.mobileslideshowhook_0.0.1_iphoneos-arm64.deb
+Size: 22252
+MD5sum: 5af40fee1bb76c3e83ec7d1f8e2756e5
+SHA1: abc82aecdecd8aee4dd01bcf0ed1455043b0d204
+SHA256: 54998ea016eb2dc491b9351609c2092ca1574d8a3ae8dcc736d3e8427deaca9f
+Section: Tweaks
+Description: 为系统相册视频播放界面增加视频进度条 (支持iOS 15-17)
+Author: crctdd
+Name: 系统相册视频进度条
+
 Package: com.crctdd.shorbar
 Version: 0.0.6
 Architecture: iphoneos-arm64e
