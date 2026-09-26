@@ -1596,6 +1596,38 @@ Description: 为系统相册视频播放界面增加视频进度条 (支持iOS 1
 Author: crctdd
 Name: 系统相册视频进度条
 
+Package: com.crctdd.mobileslideshowhook
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.mobileslideshowhook_0.0.3_iphoneos-arm64.deb
+Size: 31702
+MD5sum: 6d1500cd9488a2cf815eefe3186c2f84
+SHA1: 4df17438c36e800ff55ef2a3b04087a222af0274
+SHA256: ba49684c63ea9f5b33a0523c408e5c7743993e02a555c56fcc1613c8b3a3e769
+Section: Tweaks
+Description: 系统相册增加视频进度条 (支持iOS 15-17)
+Author: crctdd
+Name: 系统相册视频进度条
+
+Package: com.crctdd.mobileslideshowhook
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.mobileslideshowhook_0.0.3_iphoneos-arm64e.deb
+Size: 31762
+MD5sum: 853523adcdc03fde84da5c4c473dd012
+SHA1: c00d7316f7e8571f7a05e7927777c9b69b393ce4
+SHA256: 1eb31bd033f2f0c7595df5023f74ba402bed9104a6defbf1b1425298acb37c8c
+Section: Tweaks
+Description: 系统相册增加视频进度条 (支持iOS 15-17)
+Author: crctdd
+Name: 系统相册视频进度条
+
 Package: com.crctdd.shorbar
 Version: 0.0.6
 Architecture: iphoneos-arm64e
