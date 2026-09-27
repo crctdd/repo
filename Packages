@@ -2076,6 +2076,38 @@ Description: 轻量后台守护插件，支持多种运行方式与任务角色�
 Author: crctdd
 Name: StayAlive Lite
 
+Package: com.crctdd.stayalivelite
+Version: 0.2.9
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 672
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.2.9_iphoneos-arm64e.deb
+Size: 106548
+MD5sum: 333c54611ae154be823b386dac18281b
+SHA1: 8be617ddf460e0d40f265c9eab36245776679454
+SHA256: 45c5b28f28a18c902e9cbd17e8cd382c0b93c0e46edd53b3a28c54ac2bee6253
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.2.9
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1376
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.2.9_iphoneos-arm64.deb
+Size: 150412
+MD5sum: c1c31d9e036cd08d0c025f8413522d0d
+SHA1: 749d96095f91ca2146304006a17498166d8733e2
+SHA256: 92015b1605a214a027a2a23cec9a593b001eda22e7e087b97d942a58c2e8b647
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
 Package: com.crctdd.surgectl
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -5196,6 +5228,63 @@ Section: Tweaks
 Description: iOS 14-17 截图时隐藏状态栏，无设置项。(防止某些人盯着状态栏猜用户)
 Author: iosdump
 Name: ScreenshotNoStatusBar
+
+Package: com.iosdump.sfsymbolreplacer
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 832
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.zxms.sfsymbolreplacer
+Replaces: com.zxms.sfsymbolreplacer
+Provides: com.zxms.sfsymbolreplacer
+Filename: ./debs/com.iosdump.sfsymbolreplacer_1.0.9_iphoneos-arm.deb
+Size: 109446
+MD5sum: 7b536975a66cea7b8b3be04ccdbbd3a8
+SHA1: b8b58230c92aa83a5657933a73ee6514fbba84ef
+SHA256: 16ab5273b1a4b2ef2f9d3dc440b0f708196bcb256f6cb562fe93448c14cb3e39
+Section: Tweaks
+Description: 替换系统 SF 图标。
+Author: iosdump
+Name: SF 图标替换
+
+Package: com.iosdump.sfsymbolreplacer
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 832
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.zxms.sfsymbolreplacer
+Replaces: com.zxms.sfsymbolreplacer
+Provides: com.zxms.sfsymbolreplacer
+Filename: ./debs/com.iosdump.sfsymbolreplacer_1.0.9_iphoneos-arm64.deb
+Size: 109576
+MD5sum: 2176c17ca9c4d8efc46bd8851fae8004
+SHA1: 0764d63c087c1e476be74e23da1a4ec220707183
+SHA256: ef39e6656a020f849a31172e2ad52cd81d088e89366b1764c585216f069e71b6
+Section: Tweaks
+Description: 替换系统 SF 图标。
+Author: iosdump
+Name: SF 图标替换
+
+Package: com.iosdump.sfsymbolreplacer
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 832
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.zxms.sfsymbolreplacer
+Replaces: com.zxms.sfsymbolreplacer
+Provides: com.zxms.sfsymbolreplacer
+Filename: ./debs/com.iosdump.sfsymbolreplacer_1.0.9_iphoneos-arm64e.deb
+Size: 107920
+MD5sum: fb7dc631eaef12e57625314fd8ce6e76
+SHA1: 383febb09671272e69ecbc4388850b85377d7e21
+SHA256: 644d86b103d5b4e0f797a0e46bb4572a7bd2f6bc858bd773d863d4af55daadcc
+Section: Tweaks
+Description: 替换系统 SF 图标。
+Author: iosdump
+Name: SF 图标替换
 
 Package: com.iosdump.shellx
 Version: 0.0.2
