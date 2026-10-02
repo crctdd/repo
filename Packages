@@ -2415,6 +2415,38 @@ Description: 终端切换Surge流量模式并附带控制中心组件。终端�
 Author: RrrankkK
 Name: SurgeCTL
 
+Package: com.crctdd.taplink
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 744
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.taplink_0.0.5_iphoneos-arm64e.deb
+Size: 127020
+MD5sum: 77c24b6a683eb5db399df9ae717b69ba
+SHA1: 84bdeee2b2c801fd825a84c3c9fc0c888c07fe09
+SHA256: de31a82ee64dfc31f3486c4e41374949bafe1bc6106f100cefee5db72ffca84a
+Section: Tweaks
+Description: 通过悬浮触发点，将点击映射到指定位置，内置多种触发结果。(支持iOS 15-17)
+Author: crctdd
+Name: TapLink
+
+Package: com.crctdd.taplink
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 744
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.taplink_0.0.5_iphoneos-arm64.deb
+Size: 127430
+MD5sum: 868350da8d7fc3b81d249f122c3edc69
+SHA1: 9af6bc2321096b2abeb637402394b276c5e7e0c1
+SHA256: 5c3879f91a3d4c5eea697ffb158300bdbfe4de0c3d5f4b05e1a670d62fc09437
+Section: Tweaks
+Description: 通过悬浮触发点，将点击映射到指定位置，内置多种触发结果。(支持iOS 15-17)
+Author: crctdd
+Name: TapLink
+
 Package: com.cydiageek.shynotificationsapps
 Version: 1.0.0
 Architecture: iphoneos-arm64
