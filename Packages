@@ -2447,6 +2447,38 @@ Description: 通过悬浮触发点，将点击映射到指定位置，内置多�
 Author: crctdd
 Name: TapLink
 
+Package: com.crctdd.taplink
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 960
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.taplink_0.0.6_iphoneos-arm64.deb
+Size: 146346
+MD5sum: ac1ec08692400ff5624bb9e0ca013d4b
+SHA1: ce608c7d6fe6624ec820e0bd5815da2fdaec796f
+SHA256: 4795fc1eaa6fa1c4e68a41ecca09afd8382d35ced43d22f408d3245279be4d4f
+Section: Tweaks
+Description: 通过悬浮触发点，将点击映射到指定位置，内置多种触发结果。(支持iOS 15-17)
+Author: crctdd
+Name: TapLink
+
+Package: com.crctdd.taplink
+Version: 0.0.6
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 960
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.taplink_0.0.6_iphoneos-arm64e.deb
+Size: 146612
+MD5sum: aca5927aec1ccd01de3e3814875dfa25
+SHA1: 65585ee8c4477bc8d48a3503ec5a80d11b9e8118
+SHA256: 38687107acb939e1f5b4e56143aef1290a586b8174385d74601d9b5abfcfe8f0
+Section: Tweaks
+Description: 通过悬浮触发点，将点击映射到指定位置，内置多种触发结果。(支持iOS 15-17)
+Author: crctdd
+Name: TapLink
+
 Package: com.cydiageek.shynotificationsapps
 Version: 1.0.0
 Architecture: iphoneos-arm64
