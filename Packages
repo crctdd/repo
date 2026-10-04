@@ -1532,6 +1532,38 @@ Description: 下拉桌面图标弹出多开应用容器，无设置项。(支持
 Author: crctdd
 Name: Crane Drop Down
 
+Package: com.crctdd.deleterecords
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 108
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.deleterecords_0.0.1_iphoneos-arm64e.deb
+Size: 14840
+MD5sum: 47fab19c5680d0db261b84e32be8365b
+SHA1: c9c4b8a0b5d169ffc4f81dc7077dd9e3c8d88e5a
+SHA256: 2a4793ab2a9177c661444afe146f92f5316ff6ada9a3834e5fcdf321a07938fa
+Section: Tweaks
+Description: 长按桌面电话/信息图标可快速清除记录，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: 快速清除通话短信记录
+
+Package: com.crctdd.deleterecords
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.deleterecords_0.0.1_iphoneos-arm64.deb
+Size: 20790
+MD5sum: 9c1acdc269afc7ed8daaeb7fef5ddad9
+SHA1: 5249f86144ec5b987b8d863bf7c08476bd99dfb3
+SHA256: 134268e0884ec7e6480e8563907ac58c08cc37b36fa4e11db56279d2df0e0837
+Section: Tweaks
+Description: 长按桌面电话/信息图标可快速清除记录，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: 快速清除通话短信记录
+
 Package: com.crctdd.gifmake
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1563,6 +1595,40 @@ Section: Utilities
 Description: 终端cd 图片目录，回车，gifmake，回车，可获得一张.gif。输入fps 30，就是30帧。输入speed 1.5，就是动画速度1.5倍。
 Author: crctdd
 Name: GIFMake
+
+Package: com.crctdd.memtrim
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.memtrim_0.0.1_iphoneos-arm64.deb
+Size: 125212
+MD5sum: 741079637fad95c9c1d5da5dfc168007
+SHA1: bbc68b5a2bbb04c4936c955c369d4a0ac3790a10
+SHA256: 849486c6d27bdcf135faa9b075e4ac643251967a03e56ca059efc2b842b204c6
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Name: MemTrim
+
+Package: com.crctdd.memtrim
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.memtrim_0.0.1_iphoneos-arm64e.deb
+Size: 71690
+MD5sum: aa977fb34390190349aa3ed93e1996ed
+SHA1: 6c22aca59417ab8c4796b20395bb49d4d8270cf2
+SHA256: 7f61fbd3f0188f85f4eb44159dae563da13376b9844ff3d770c7e298a4b0ba91
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Name: MemTrim
 
 Package: com.crctdd.mobileslideshowhook
 Version: 0.0.1
