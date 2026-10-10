@@ -1926,6 +1926,22 @@ Description: 系统相册增加视频进度条 (支持iOS 15-17)
 Author: crctdd
 Name: 系统相册视频进度条
 
+Package: com.crctdd.sbtrim
+Version: 0.0.15
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.sbtrim_0.0.15_iphoneos-arm64e.deb
+Size: 73022
+MD5sum: 0d5b656fc9e24bc5a386c51be26407a1
+SHA1: 6eba604d3fed08474758db7bd72ddcd41dfb66a9
+SHA256: 2339320c5fb22abe8142510dda562070b0e85703a74acc98c75d33c427908b50
+Section: Tweaks
+Description: 当SpringBoard的Phys占用阈值超过一定数值，自动轻量优化回收。(支持iOS 15-17)
+Author: crctdd
+Name: SBTrim
+
 Package: com.crctdd.shorbar
 Version: 0.0.6
 Architecture: iphoneos-arm64e
