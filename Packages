@@ -1564,6 +1564,44 @@ Description: 长按桌面电话/信息图标可快速清除记录，无设置项
 Author: crctdd
 Name: 快速清除通话短信记录
 
+Package: com.crctdd.filzarename
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 208
+Depends: firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.filzadebname
+Replaces: com.crctdd.filzadebname
+Filename: ./debs/com.crctdd.filzarename_0.0.1_iphoneos-arm64.deb
+Size: 22888
+MD5sum: 61ab625133c4787e2810871bde34cc49
+SHA1: db431f40079e4598e2c4badb8e9d65586be4a3f4
+SHA256: cface8d07dac3a77bc3776e6379540f6639c6f840a13bfb0e850297e7402e191
+Section: Tweaks
+Priority: optional
+Description: 在Filza内的.deb/.ipa/.tipa安装包长按可规范命名。
+Author: crctdd
+Name: Filza Rename
+
+Package: com.crctdd.filzarename
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 96
+Depends: firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.filzadebname
+Replaces: com.crctdd.filzadebname
+Filename: ./debs/com.crctdd.filzarename_0.0.1_iphoneos-arm64e.deb
+Size: 17000
+MD5sum: 6f6a337ba2b043aa4bf58ce471438506
+SHA1: d6f9b48b659a22967d8cf833fbfdf11893bcdfd9
+SHA256: bc41f7acdae11db2ea806950267dfaa0e506214aa3732924dc6a20d12bae0a63
+Section: Tweaks
+Priority: optional
+Description: 在Filza内的.deb/.ipa/.tipa安装包长按可规范命名。
+Author: crctdd
+Name: Filza Rename
+
 Package: com.crctdd.gifmake
 Version: 0.0.1
 Architecture: iphoneos-arm64
