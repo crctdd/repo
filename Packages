@@ -1628,6 +1628,38 @@ Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17
 Author: crctdd
 Name: Disable CutPoP
 
+Package: com.crctdd.disabledynamicisland
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 76
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.disabledynamicisland_0.0.1_iphoneos-arm64e.deb
+Size: 6102
+MD5sum: f7960006f16383d13bba8e08d36c25e1
+SHA1: a2d3ba6af395d313c69bf142f3d1b5cfaf50788b
+SHA256: 05ee4717139ad3b5a070f69700821a9a8347920f7925da48714818f10746cb83
+Section: Tweaks
+Description: 跟灵动岛说再见！禁用所有上岛行为，除了时钟；无设置项。(支持iOS 16-17 带灵动岛的设备)
+Author: crctdd
+Name: Disable Dynamic Island
+
+Package: com.crctdd.disabledynamicisland
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.disabledynamicisland_0.0.1_iphoneos-arm64.deb
+Size: 8052
+MD5sum: e0403748d3dbc4109e60dba0d7e34850
+SHA1: fdd786b0909813ad3dc5040113556f409a3232fe
+SHA256: ab9d9f396329cea4b4aec6acc7e977b39b1794f339f53caa8e1678618052e290
+Section: Tweaks
+Description: 跟灵动岛说再见！禁用所有上岛行为，除了时钟；无设置项。(支持iOS 16-17 带灵动岛的设备)
+Author: crctdd
+Name: Disable Dynamic Island
+
 Package: com.crctdd.filzarename
 Version: 0.0.1
 Architecture: iphoneos-arm64
