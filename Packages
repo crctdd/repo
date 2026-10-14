@@ -1532,6 +1532,38 @@ Description: 自动复制短信、系统邮件、部分主流第三方邮件的�
 Author: crctdd
 Name: Auto Copy Verify
 
+Package: com.crctdd.autocopyverify
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.autocopyverify_0.0.5_iphoneos-arm64e.deb
+Size: 77884
+MD5sum: 57577047708f37ac35850896edc2b82b
+SHA1: 19c0462ea790dafc10ed15bb38d3db986c1428e0
+SHA256: 1a220ff5406933c519d28f8a0924ca1d6513ad6ce1507cdf5dae9825b620d53e
+Section: Tweaks
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Author: crctdd
+Name: Auto Copy Verify
+
+Package: com.crctdd.autocopyverify
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1524
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.autocopyverify_0.0.5_iphoneos-arm64.deb
+Size: 100532
+MD5sum: 25a432a2df8b0cbb8ea78ea39d2c695f
+SHA1: 6838f9e055fa73084a5843dc96fcd91539cb11a2
+SHA256: 0e028e419b7fe0eefc6d9b834adb9bde73e5071fcdc6e94df4c74b89532cab90
+Section: Tweaks
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Author: crctdd
+Name: Auto Copy Verify
+
 Package: com.crctdd.choicy-patch
 Version: 0.0.2
 Architecture: iphoneos-arm64
