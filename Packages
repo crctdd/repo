@@ -1596,6 +1596,24 @@ Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持
 Author: crctdd
 Name: Choicy Patch
 
+Package: com.crctdd.choicy-whitelist
+Version: 1.5.4-4
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 648
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Conflicts: com.opa334.choicy, com.crctdd.choicy-patch
+Replaces: com.opa334.choicy, com.crctdd.choicy-patch
+Filename: ./debs/com.crctdd.choicy-whitelist_1.5.4-4_iphoneos-arm64e.deb
+Size: 129356
+MD5sum: 35e6fc9f1c2340ff516fa7ea8430b664
+SHA1: 86b78551c7c35dbad083fc58d193129fc669425d
+SHA256: 0e521d539aecae6ee06f895ac3f666dad5b41cca5a4cb34ba8761f624ddb17e3
+Section: Tweaks
+Description: Choicy白名单 (支持iOS 15-17 roothide)
+Author: crctdd
+Name: Choicy-Whitelist
+
 Package: com.crctdd.cranedd
 Version: 0.0.1
 Architecture: iphoneos-arm64
