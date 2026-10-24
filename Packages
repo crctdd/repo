@@ -3312,6 +3312,38 @@ Description: 锁屏时保持 Surge-iOS-NE 的活跃性。(支持iOS 15-17)
 Author: crctdd
 Name: SurgeActive
 
+Package: com.crctdd.surgeactive
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 236
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.crctdd.surgeactive_0.0.5_iphoneos-arm64.deb
+Size: 15996
+MD5sum: 369b3bde8cd1974b4e14448d5eb7bba3
+SHA1: bd1003e188b70e799f77fdd7620fb9de3bec2a12
+SHA256: 55895ffa2cf9d44dad80f74100191bff22ed35b51b51d3b4e657bdda3b985629
+Section: Tweaks
+Description: 锁屏时保持 Surge-iOS-NE 的活跃性。(支持iOS 15-17)
+Author: crctdd
+Name: SurgeActive
+
+Package: com.crctdd.surgeactive
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.crctdd.surgeactive_0.0.5_iphoneos-arm64e.deb
+Size: 11492
+MD5sum: 938afc379f07c6a702f75aae1a1eed81
+SHA1: 4f15b7ee290b6e64237cffd06f157a5d26e092ab
+SHA256: 7a4c402c4bf932d02240a8a312822b8296dc9e5dd756c5ecbf4dfb3d41c697e1
+Section: Tweaks
+Description: 锁屏时保持 Surge-iOS-NE 的活跃性。(支持iOS 15-17)
+Author: crctdd
+Name: SurgeActive
+
 Package: com.crctdd.surgectl
 Version: 0.0.1
 Architecture: iphoneos-arm
