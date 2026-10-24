@@ -1597,6 +1597,42 @@ Author: crctdd
 Name: Choicy Patch
 
 Package: com.crctdd.choicy-whitelist
+Version: 1.5.4-10
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 748
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Conflicts: com.opa334.choicy, com.crctdd.choicy-patch
+Replaces: com.opa334.choicy, com.crctdd.choicy-patch
+Filename: ./debs/com.crctdd.choicy-whitelist_1.5.4-10_iphoneos-arm64e.deb
+Size: 154330
+MD5sum: 379b1d730f2d6978e80c0ecdc817e46b
+SHA1: 862813a4bf0804fcf3cc4b39fc5144b6a947a38c
+SHA256: 0d8ac3da2598c18d04089f3fa1b657e8d82bdaf6c973a5a3f2bf16f966525718
+Section: Tweaks
+Description: Choicy白名单 (支持iOS 15-17 roothide)
+Author: crctdd
+Name: Choicy-Whitelist
+
+Package: com.crctdd.choicy-whitelist
+Version: 1.5.4-11
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 748
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Conflicts: com.opa334.choicy, com.crctdd.choicy-patch
+Replaces: com.opa334.choicy, com.crctdd.choicy-patch
+Filename: ./debs/com.crctdd.choicy-whitelist_1.5.4-11_iphoneos-arm64e.deb
+Size: 156750
+MD5sum: 60b17c2212c4a8a6c67fb30cf81940a0
+SHA1: 5abfecaed49d00b64785077f408e41d5a6a7fcc1
+SHA256: 7573844936fe6fa24665d072023ce93b8130c010d7edd822aa17189c95528ec5
+Section: Tweaks
+Description: Choicy白名单 (支持iOS 15-17 roothide)
+Author: crctdd
+Name: Choicy-Whitelist
+
+Package: com.crctdd.choicy-whitelist
 Version: 1.5.4-4
 Architecture: iphoneos-arm64e
 Maintainer: crctdd
@@ -1681,6 +1717,24 @@ Size: 143896
 MD5sum: a8b0f19002c386b4ccc843d1db53803f
 SHA1: 5732c2167ea49b3f07829c08265e038d3c1bd3f7
 SHA256: 816d5e9f6786d814033300e8ef1f32c01e5ddb6b4e5a93a62bb248974968f275
+Section: Tweaks
+Description: Choicy白名单 (支持iOS 15-17 roothide)
+Author: crctdd
+Name: Choicy-Whitelist
+
+Package: com.crctdd.choicy-whitelist
+Version: 1.5.4-9
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 748
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Conflicts: com.opa334.choicy, com.crctdd.choicy-patch
+Replaces: com.opa334.choicy, com.crctdd.choicy-patch
+Filename: ./debs/com.crctdd.choicy-whitelist_1.5.4-9_iphoneos-arm64e.deb
+Size: 154152
+MD5sum: e3c31567295627b112bedc8c13cf788c
+SHA1: 7a49d772cbac92d53eb0ffcb400bb9f4abda96fa
+SHA256: 2f821b8a4e6d142ce38dfe335752f6381f137cd6b28b6a779d1933da10a196d8
 Section: Tweaks
 Description: Choicy白名单 (支持iOS 15-17 roothide)
 Author: crctdd
@@ -3598,6 +3652,38 @@ Size: 273124
 MD5sum: 813009a5ae2506ed43b994c8053e8638
 SHA1: b3e86717a2f18777e77ba98c75c98ca3f19849c0
 SHA256: 3ed5ed82df233c0ba63bcb1492351224c4a450aebd6a33964a06208e4a25f488
+Section: Control Center (Modules)
+Description: Select NR bands and view live serving status in Control Center
+Author: doimty
+Name: NR Manager
+
+Package: com.doimty.nrmanager
+Version: 1.7.5
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 1688
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.doimty.nrmanager_1.7.5_iphoneos-arm64e.deb
+Size: 274710
+MD5sum: 617b20edf8006a62252444fa407bdd5a
+SHA1: 06cada6410345bbf2fb6658afe4c8d2399eca816
+SHA256: 44ef9c90d0230552eea222527348292e51ed2fc23f1119bcfbd58f672e919289
+Section: Control Center (Modules)
+Description: Select NR bands and view live serving status in Control Center
+Author: doimty
+Name: NR Manager
+
+Package: com.doimty.nrmanager
+Version: 1.7.5
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 1720
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.doimty.nrmanager_1.7.5_iphoneos-arm64.deb
+Size: 258806
+MD5sum: 453d3bb503e9b6fb123c57f7ad49d943
+SHA1: 5687e5c610329e86989a260956f09f3b96ea3cc2
+SHA256: 9327be9c33c4400a224537569fa632bd82ee42d412b89fbe41bc51b2b80455bf
 Section: Control Center (Modules)
 Description: Select NR bands and view live serving status in Control Center
 Author: doimty
