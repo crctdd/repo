@@ -11548,6 +11548,26 @@ Description: 针对任意 App 单独配置虚拟权限，防止隐私被过度�
 Author: Junhong
 Name: 虚拟权限 · Fake Permission (Roothide)
 
+Package: jp.dcsyhi.culprit
+Version: 1.0.1-zh
+Architecture: iphoneos-arm64e
+Maintainer: 灰灰 (汉化维护)
+Installed-Size: 500
+Depends: firmware (>=15.0)
+Filename: ./debs/jp.dcsyhi.culprit_1.0.1-zh_iphoneos-arm64e.deb
+Size: 157104
+MD5sum: c8f2b763b5741e0bbd5e2a4e57439f56
+SHA1: d74b0316c1f31842838ca2f9f826470429c1b8dd
+SHA256: c5739b6ec5da98b750edd675642d7c79d0202f7cd7329fb41a7afe6588c3ff6d
+Section: Utilities
+Description: 按进程分组查看崩溃报告，点开可看概要、崩溃栈、工程摘要和 .ips 全文。中文汉化：灰灰 与 MIAO。配色与排版参考 slog (Ethan Arbuckle, https://github.com/EthanArbuckle/slog)。
+Author: Dcsyhi
+Depiction: https://dcsyhi1998.github.io/depiction/Culprit.html
+Icon: https://dcsyhi1998.github.io/icons/Culprit/Culprit.png
+Name: Culprit
+Sileodepiction: https://dcsyhi1998.github.io/Sileodepiction/Culprit.json
+Translator: 灰灰 与 MIAO (=^･ω･^=)
+
 Package: me.nixuge.networkmanager
 Version: 1.4.3
 Architecture: iphoneos-arm64e
