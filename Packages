@@ -10981,6 +10981,24 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX
 
+Package: com.udevs.vedette
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 268
+Depends: roothide, preferenceloader, mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/com.udevs.vedette_1.1.5_iphoneos-arm64e.deb
+Size: 64122
+MD5sum: f3cdba90a720c4d86bd973e218d602f2
+SHA1: c20c982be5125381cf728e78d6d1ede317040911
+SHA256: 84e3d0a09349888783122500efc2361cc4cde98681811dc09f67c5b70948280c
+Section: Tweaks
+Description: Monitor CPU hogging processes
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vedette
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
+Name: Vedette
+
 Package: com.vita.wchook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
