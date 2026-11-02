@@ -2384,38 +2384,6 @@ Description: 当SpringBoard的Phys占用阈值超过一定数值，自动轻量�
 Author: crctdd
 Name: SBTrim
 
-Package: com.crctdd.sharingx
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: crctdd
-Installed-Size: 204
-Depends: mobilesubstrate, firmware (>= 17.0), firmware (<< 18.0)
-Filename: ./debs/com.crctdd.sharingx_0.0.3_iphoneos-arm64.deb
-Size: 11902
-MD5sum: 56bf49f4d69e11231dbc81a42022f006
-SHA1: 657f83bccd79566ef1378f6bc573709cdd9a2e6b
-SHA256: 74470168bf3b38537d7108b5054cf78fb780d7c9c1be846fe1b2581a69e0dc90
-Section: Tweaks
-Description: iOS17接收隔空投送弹出系统分享面板 (照片/视频 除外)，不直接跳转；无设置项。(仅iOS 17.0+使用)
-Author: crctdd
-Name: SharingX
-
-Package: com.crctdd.sharingx
-Version: 0.0.3
-Architecture: iphoneos-arm64e
-Maintainer: crctdd
-Installed-Size: 92
-Depends: mobilesubstrate, firmware (>= 17.0), firmware (<< 18.0)
-Filename: ./debs/com.crctdd.sharingx_0.0.3_iphoneos-arm64e.deb
-Size: 9018
-MD5sum: 65f906993f724195598ac9cebef39541
-SHA1: 8239bea9700b5236ff9f7f77b79e84586ac52341
-SHA256: 5e17eaa8e32480022fb3704cfa1d3d07a580bdc5f9fab9730b7db14f9f110561
-Section: Tweaks
-Description: iOS17接收隔空投送弹出系统分享面板 (照片/视频 除外)，不直接跳转；无设置项。(仅iOS 17.0+使用)
-Author: crctdd
-Name: SharingX
-
 Package: com.crctdd.shorbar
 Version: 0.0.6
 Architecture: iphoneos-arm64
