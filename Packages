@@ -11544,6 +11544,42 @@ Description: Observe and reprogram running programs.
 Author: Frida Developers <oleavr@nowsecure.com>
 Name: Frida
 
+Package: re.frida.server
+Version: 17.25.1
+Architecture: iphoneos-arm64e
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 78466
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_17.25.1_iphoneos-arm64e.deb
+Size: 23526852
+MD5sum: 0384d04d2ad3074f966759e50eb47fe7
+SHA1: db7280dbe1c26cca6daa3fd358bbb2bef82973d8
+SHA256: fe9f71535a7e99d28c2e62dc4cb8fa966ffbb84246fcece7ec9ebac5fd815027
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 17.25.1
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 78484
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_17.25.1_iphoneos-arm64.deb
+Size: 23546196
+MD5sum: ae42af3c7b6af2a0f464e6785d77dc95
+SHA1: f16eb1df0ab4cbf7be18071b31936615900a74a5
+SHA256: dfed3cddc1aab94605a1d35148c79cb54099bcb884b58fcddb8b7ef255b06eb5
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
 Package: ru.domo.cocoatop64
 Version: 2.2.4-2
 Architecture: iphoneos-arm64e
