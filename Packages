@@ -11564,6 +11564,24 @@ Name: Frida
 
 Package: re.frida.server
 Version: 17.25.1
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 78476
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_17.25.1_iphoneos-arm.deb
+Size: 23543156
+MD5sum: e7042c6d546d4b2d6f2e269a05056da1
+SHA1: 7624f860c8691411925bae4d0b5d5ee1b56976ee
+SHA256: d8822d2ac7cff0cbb95a1e6b29e7fd9c204f0503c9c2e3f35853b5134d58a980
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 17.25.1
 Architecture: iphoneos-arm64
 Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 78484
