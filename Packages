@@ -3755,6 +3755,23 @@ Tag: supports::roothide
 Author: doimty
 Name: Fix Repair System Power
 
+Package: com.doimty.fixrepairsystempower
+Version: 0.0.8-2
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.doimty.fixrepairsystempower_0.0.8-2_iphoneos-arm64e.deb
+Size: 6590
+MD5sum: 7a479294ceecdf13982e337fabaab998
+SHA1: 59aa0497fc3d67b8d4930a03c3cd0ee7b85853cd
+SHA256: 0b66bb3a62d3f907f9e1f5b44d1290f054c2231385d6044f15de2b13875809ef
+Section: Tweaks
+Description: CPU Battery Saver Battery Connected State Not Change Remove Monitored Regions Don't Use Background Location Services No Update WiFi State Remove Pretending To Search In Telephony Manager No Has Results From Wifi Scan Disable Wifi Charger Queue Has Cellular Telephony Private Location Apps Not Using Location With Details Remove Animations Remove Animations Fake Service If Unnecessary Don't Scan For Updates Remove Check Time Zone Time Zone (Fixed) AdBlock - Block Some iAds No Automatic Sync Hidden iAds Device
+Tag: supports::roothide
+Author: doimty
+Name: Fix Repair System Power
+
 Package: com.doimty.nrmanager
 Version: 1.6.6
 Architecture: iphoneos-arm64
