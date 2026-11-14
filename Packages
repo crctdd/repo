@@ -11643,6 +11643,24 @@ Name: NetworkManagerReborn Roothide
 
 Package: re.frida.server
 Version: 16.1.4
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60104
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_16.1.4_iphoneos-arm64.deb
+Size: 17921044
+MD5sum: 21033ae5e6ce422be5c4b4b806bf9d0f
+SHA1: 2dae125619eb321f656ebdf1634de9e50c527785
+SHA256: 1452fc2ae81e17e8dd0b84bffafbcb6b9cfb045425c3df0db35a4958367af748
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.1.4
 Architecture: iphoneos-arm64e
 Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 60104
@@ -11652,6 +11670,24 @@ Size: 17921048
 MD5sum: df0bde2b0f5effaf281f6b4bb7a2d080
 SHA1: 78e64d873887c4ee9a70151f77238b724bd94da0
 SHA256: 17df02e20574cc55d26b4226cd95e71018b153eb8f2b9219f4b1b23e2c83f46d
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.1.4
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60096
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_16.1.4_iphoneos-arm.deb
+Size: 17921232
+MD5sum: 109094ed89237b137022f6924173ea30
+SHA1: 8d08594bc51f074bfc2c394a74e3e40efa65f5d0
+SHA256: 8439e333f26bcc934b45d6756262492d5ce66891d594895bd45245a730938566
 Section: Development
 Priority: optional
 Homepage: https://frida.re/
