@@ -3525,6 +3525,38 @@ Description: 终端切换Surge流量模式并附带控制中心组件。终端�
 Author: RrrankkK
 Name: SurgeCTL
 
+Package: com.crctdd.tailscaleactive
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 112
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.crctdd.tailscaleactive_0.0.2_iphoneos-arm64e.deb
+Size: 16112
+MD5sum: 4854967577f1db5db95765c796ae4c48
+SHA1: cfc64bab4dae805df9dad13788a5f7281721b527
+SHA256: 9e6cbe93f16b5f2f3261680660b6896100ebaf41cd84c4ae2c18bb8e7bfc7aef
+Section: Tweaks
+Description: 锁屏时保持 Tailscale Network 的活跃性。(支持iOS 15-17)
+Author: crctdd
+Name: TailscaleActive
+
+Package: com.crctdd.tailscaleactive
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 240
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.crctdd.tailscaleactive_0.0.2_iphoneos-arm64.deb
+Size: 21508
+MD5sum: 663a3cb36f609edc2cf15af3c1368638
+SHA1: 6be9172691b51aa897a9b70dd0eca6f3c835c28f
+SHA256: c152e9589cfa708afdd1187176d8aaee457bae5e194b3c868b922e238530d0be
+Section: Tweaks
+Description: 锁屏时保持 Tailscale Network 的活跃性。(支持iOS 15-17)
+Author: crctdd
+Name: TailscaleActive
+
 Package: com.crctdd.taplink
 Version: 0.0.5
 Architecture: iphoneos-arm64e
